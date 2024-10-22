@@ -6,4 +6,5 @@ if __name__ == '__main__':
         db_config = json.load(file)
     directory = './corpus'
     op.load(db_config, directory)
+    # op.unload(directory)
     op.start(db_config)
