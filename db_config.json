@@ -1,0 +1,6 @@
+{
+    "host": "192.168.0.1",
+    "user": "dbuser",
+    "password": "asdf1234",
+    "database": "language_schema"
+}
