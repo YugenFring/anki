@@ -1,9 +1,9 @@
 import time
 import os
 import json
-import math
 from datetime import datetime, timedelta
-from .db import Cards, Corpus
+from dataclasses import asdict
+from .db import Cards, Corpus, CorpusBase
 from . import algo
 
 
@@ -26,12 +26,19 @@ def load(db_info: dict, directory: str) -> None:
     for filename in os.listdir(directory):
         file_path = os.path.join(directory, filename)
         json_list = json_loader(file_path)
-        card_list = [Corpus(**c) for c in json_list]
-        cards_db.upsert(card_list)
+        card_list = [CorpusBase(**c) for c in json_list]
+
+        cards_need_insert = []
+        cards_need_update = []
 
         for j, c in zip(json_list, card_list):
             if not j.get('id', None):
                 j['id'] = c.id
+                cards_need_insert.append(Corpus(**asdict(c)))
+            else:
+                cards_need_update.append(c)
+        cards_db.upsert(cards_need_insert)
+        cards_db.upsert(cards_need_update)
 
         json_writer(file_path, json_list)
 

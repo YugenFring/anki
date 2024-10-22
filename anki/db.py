@@ -9,7 +9,7 @@ gen = SnowflakeGenerator(520)
 
 
 @dataclass
-class Corpus:
+class CorpusBase:
     """用于存储 card 的数据表"""
     id: int = field(default_factory=lambda: next(gen))
     language_type: str = 'JP'
@@ -18,6 +18,11 @@ class Corpus:
     phonetic_alphabet: str = ''
     translated_content: str = ''
     explanation: str = ''
+
+
+@dataclass
+class Corpus(CorpusBase):
+    """用于存储 card 的数据表"""
     test_times: int = 0
     success_times: int = 0
     last_review_date: datetime = field(default_factory=datetime.now)
@@ -59,7 +64,7 @@ def cls_to_upsert_sql(cls: dataclass) -> str:
     field_names = [field.name for field in fields(cls)]
     placeholders = ','.join(['%s'] * len(field_names))
 
-    tb_name = cls.__name__.lower()
+    tb_name = cls.__name__.lower().replace('base', '')
     insert_sql = f"""
         INSERT INTO {tb_name} ({','.join(field_names)})
         VALUES ({placeholders})
@@ -87,10 +92,14 @@ class Cards:
         self.conn.commit()
         # print(f'table created.')
 
-    def upsert(self, cards: List[Corpus]) -> None:
+    def upsert(self, cards: List[CorpusBase]) -> None:
         """执行 upsert 操作"""
+        if cards:
+            cls_type = type(cards[0])
+        else:
+            return
         with self.conn.cursor() as cursor:
-            sql = cls_to_upsert_sql(self.cls)
+            sql = cls_to_upsert_sql(cls_type)
             values = [tuple(getattr(c, f.name) for f in fields(c))
                       for c in cards]
             cursor.executemany(sql, values)

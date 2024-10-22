@@ -5,7 +5,7 @@
     "original_content": "すみません",
     "phonetic_alphabet": "Sumimasen",
     "translated_content": "对不起, 打扰一下.",
-    "explanation": "问路的时候会使用到的开场白.",
+    "explanation": "问路的时候会使用到的开场白."
   },
   {
     "language_type": "JP",
@@ -13,6 +13,6 @@
     "original_content": "いらっしゃいました",
     "phonetic_alphabet": "irasshaimashita",
     "translated_content": "'いらっしゃる'的礼貌过去形.",
-    "explanation": "polite godan auxiliary verb.",
+    "explanation": "polite godan auxiliary verb."
   }
 ]
