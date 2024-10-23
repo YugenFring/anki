@@ -1,0 +1,182 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "タム、見て見て！",
+    "phonetic_alphabet": "Tamu, mite mite!",
+    "translated_content": "タム, 你(请)看你(请)看.",
+    "explanation": "较为轻松的语气.",
+    "id": 7254722080487276544
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "わあ、大きいですね。",
+    "phonetic_alphabet": "Waa, ookii3 desu ne.",
+    "translated_content": "哇, 好大啊!",
+    "explanation": "较为正式的语气.",
+    "id": 7254722080487276545
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "初めて見ました。",
+    "phonetic_alphabet": "Hajimete2 mimashita.",
+    "translated_content": "(我)第一次看到.",
+    "explanation": "",
+    "id": 7254722080487276546
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どうやって作ったんだろう・・・",
+    "phonetic_alphabet": "Doo1 yatte tsukuttan daroo3…",
+    "translated_content": "如何制作的呢?",
+    "explanation": "",
+    "id": 7254722080487276547
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "みんなで写真を撮りましょう。",
+    "phonetic_alphabet": "Minna3 de shashin o torimashoo.",
+    "translated_content": "(通过)大家(的方式)一起拍照片吧.",
+    "explanation": "提议做 sth",
+    "id": 7254722080487276548
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "いいね",
+    "phonetic_alphabet": "Ii ne.",
+    "translated_content": "好主意.",
+    "explanation": "对提议表示赞成.",
+    "id": 7254722080487276549
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "この店に入りましょう。",
+    "phonetic_alphabet": "Kono mise2 ni hairimashoo.",
+    "translated_content": "进这家店吧.",
+    "explanation": "",
+    "id": 7254722080487276550
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "時計台に行きましょう。",
+    "phonetic_alphabet": "Tokeedai5 ni ikimashoo.",
+    "translated_content": "去钟楼吧.",
+    "explanation": "",
+    "id": 7254722080487276551
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ちょっと休みましょう。",
+    "phonetic_alphabet": "Chotto1 yasumimashoo.",
+    "translated_content": "稍微休息一下吧.",
+    "explanation": "",
+    "id": 7254722080487276552
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "タクシーで帰りましょう。",
+    "phonetic_alphabet": "Takushii de kaerimashoo.",
+    "translated_content": "(通过)出租车(的方式)回去吧.",
+    "explanation": "",
+    "id": 7254722080487276553
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "初めて",
+    "phonetic_alphabet": "Hajimete2",
+    "translated_content": "第一次",
+    "explanation": "adv",
+    "id": 7254722080487276554
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "だろう",
+    "phonetic_alphabet": "daroo3",
+    "translated_content": "呢",
+    "explanation": "interj",
+    "id": 7254722080487276555
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "やる",
+    "phonetic_alphabet": "yaru2",
+    "translated_content": "做",
+    "explanation": "godan transitive verb",
+    "id": 7254722080487276556
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "作る",
+    "phonetic_alphabet": "tsukuru2",
+    "translated_content": "制作, 建造, 生产, 构建",
+    "explanation": "godan transitive verb",
+    "id": 7254722080487276557
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "みんな",
+    "phonetic_alphabet": "Minna3",
+    "translated_content": "大家",
+    "explanation": "n",
+    "id": 7254722080487276558
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "入る",
+    "phonetic_alphabet": "hairu1",
+    "translated_content": "进入",
+    "explanation": "godan intransitive verb",
+    "id": 7254722080487276559
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ちょっと",
+    "phonetic_alphabet": "Chotto1",
+    "translated_content": "稍微",
+    "explanation": "adv",
+    "id": 7254722080487276560
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "休む",
+    "phonetic_alphabet": "yasumu2",
+    "translated_content": "休息",
+    "explanation": "godan intransitive verb",
+    "id": 7254722080487276561
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "タクシー",
+    "phonetic_alphabet": "Takushii",
+    "translated_content": "出租车",
+    "explanation": "n",
+    "id": 7254722080487276562
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "帰る",
+    "phonetic_alphabet": "kaeru1",
+    "translated_content": "回去, 回家",
+    "explanation": "godan intransitive verb",
+    "id": 7254722080487276563
+  }
+]
