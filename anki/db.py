@@ -113,7 +113,7 @@ class Cards:
             sql = f"""
                 SELECT *
                 FROM {tb_name}
-                ORDER BY TIMESTAMPDIFF(SECOND, next_review_date, CURDATE())
+                ORDER BY TIMESTAMPDIFF(SECOND, CURDATE(), next_review_date)
                 LIMIT 10
             """
             cursor.execute(sql)
