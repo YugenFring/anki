@@ -1,0 +1,263 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お弁当だよ。",
+    "phonetic_alphabet": "Obentoo5 da yo.",
+    "translated_content": "便当这是.",
+    "explanation": "较为轻松的语气.",
+    "id": 7254781243804385280
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ぼくが作ったんだ。どうぞ。",
+    "phonetic_alphabet": "Boku ga tsukuttan da. Doozo.",
+    "translated_content": "我做的. 请(尝尝).",
+    "explanation": "较为轻松的语气.",
+    "id": 7254781243804385281
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "すごい！いただきます。",
+    "phonetic_alphabet": "Sugoi! Itadakimasu.",
+    "translated_content": "太丰盛了! 开吃咯.",
+    "explanation": "较为轻松的语气.",
+    "id": 7254781243804385282
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "この卵焼き、甘くておいしいです。",
+    "phonetic_alphabet": "Kono tamago23-yaki2, amakute oishii desu.",
+    "translated_content": "这个玉子烧, 甜甜美味的.",
+    "explanation": "",
+    "id": 7254781243804385283
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "海斗は本当に料理が上手だね。",
+    "phonetic_alphabet": "Kaito wa hontoo ni ryoori1 ga joozu3 da ne.",
+    "translated_content": "海斗啊, (你的)厨艺是熟练的.",
+    "explanation": "较为轻松的语气.",
+    "id": 7254781243804385284
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ぼく、シェフになりたいんだ。",
+    "phonetic_alphabet": "Boku, shefu ni naritain da.",
+    "translated_content": "我, 厨师是想成为.",
+    "explanation": "较为轻松的语气.",
+    "id": 7254781243804385285
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "いいね。",
+    "phonetic_alphabet": "Ii ne.",
+    "translated_content": "真好",
+    "explanation": "对别人梦想的赞同.",
+    "id": 7254781243804385286
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "上野公園、どうでしたか。",
+    "phonetic_alphabet": "Ueno3-kooen4, doo deshita ka.",
+    "translated_content": "上野公园, 是怎么样?",
+    "explanation": "",
+    "id": 7254781243804385287
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "広くて、きれいで、とてもよかったです。",
+    "phonetic_alphabet": "Hirokute, kiree de, totemo yokatta desu.",
+    "translated_content": "又大又漂亮, 特别好.",
+    "explanation": "",
+    "id": 7254781243804385288
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "小さくてかわいいですね。",
+    "phonetic_alphabet": "Chiisakute kawaii desu ne.",
+    "translated_content": "小巧又可爱呢.",
+    "explanation": "",
+    "id": 7254781243804385289
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "正確で、便利ですね。",
+    "phonetic_alphabet": "Seekaku4 de benri1 desu ne.",
+    "translated_content": "准时又方便呢.",
+    "explanation": "",
+    "id": 7254781243804385290
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "豪華で、美しいですね。",
+    "phonetic_alphabet": "Gooka1 de utsukushii4 desu ne.",
+    "translated_content": "豪华又漂亮呢.",
+    "explanation": "",
+    "id": 7254781243804385291
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "お弁当",
+    "phonetic_alphabet": "Obentoo5",
+    "translated_content": "便当",
+    "explanation": "n",
+    "id": 7254781243804385292
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "卵焼き",
+    "phonetic_alphabet": "tamago23-yaki2",
+    "translated_content": "玉子烧",
+    "explanation": "n",
+    "id": 7254781243804385293
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "料理",
+    "phonetic_alphabet": "ryoori1",
+    "translated_content": "厨艺",
+    "explanation": "n",
+    "id": 7254781243804385294
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "上手",
+    "phonetic_alphabet": "joozu3",
+    "translated_content": "熟练的",
+    "explanation": "adj",
+    "id": 7254781243804385295
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "シェフ",
+    "phonetic_alphabet": "shefu",
+    "translated_content": "厨师",
+    "explanation": "n",
+    "id": 7254781243804385296
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "甘い",
+    "phonetic_alphabet": "amai3",
+    "translated_content": "甜甜的",
+    "explanation": "adj",
+    "id": 7254781243804385297
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "甘くて",
+    "phonetic_alphabet": "amakute3",
+    "translated_content": "'甘い'的te形'",
+    "explanation": "adj",
+    "id": 7254781243804385298
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "なる",
+    "phonetic_alphabet": "naru1",
+    "translated_content": "成为, 达到",
+    "explanation": "godan intransitive verb",
+    "id": 7254781243804385299
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "上野公園",
+    "phonetic_alphabet": "Ueno3-kooen4",
+    "translated_content": "上野公园",
+    "explanation": "n",
+    "id": 7254781243804385300
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "広い",
+    "phonetic_alphabet": "hiroi2",
+    "translated_content": "宽阔的",
+    "explanation": "i-adj",
+    "id": 7254781243804385301
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "広くて",
+    "phonetic_alphabet": "Hirokute",
+    "translated_content": "'広い'的te形",
+    "explanation": "i-adj",
+    "id": 7254781243804385302
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "小さい",
+    "phonetic_alphabet": "chiisai3",
+    "translated_content": "小巧的",
+    "explanation": "i-adj",
+    "id": 7254781243804385303
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "小さくて",
+    "phonetic_alphabet": "Chiisakute3",
+    "translated_content": "'小さい'的te形",
+    "explanation": "i-adj",
+    "id": 7254781243804385304
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "正確",
+    "phonetic_alphabet": "Seekaku4",
+    "translated_content": "准时的",
+    "explanation": "na-adj",
+    "id": 7254781243804385305
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "便利",
+    "phonetic_alphabet": "benri1",
+    "translated_content": "方便的",
+    "explanation": "na-adj",
+    "id": 7254781243804385306
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "豪華",
+    "phonetic_alphabet": "Gooka1",
+    "translated_content": "豪华的",
+    "explanation": "na-adj",
+    "id": 7254781243804385307
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "美しい",
+    "phonetic_alphabet": "utsukushii4",
+    "translated_content": "漂亮的",
+    "explanation": "i-adj",
+    "id": 7254781243804385308
+  }
+]

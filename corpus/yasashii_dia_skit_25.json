@@ -1,0 +1,326 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "タムさん、顔色が悪いですよ。",
+    "phonetic_alphabet": "~, kaoiro4 ga warui2 desu yo.",
+    "translated_content": "タム, 脸色不好的是.",
+    "explanation": "",
+    "id": 7254759509290156032
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どうしたんですか。",
+    "phonetic_alphabet": "Doo1 shita2-n desu ka.",
+    "translated_content": "怎样什么做是.  (发生什么事了)",
+    "explanation": "",
+    "id": 7254759509290156033
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "のどが痛いんです。",
+    "phonetic_alphabet": "Nodo1 ga itai2-n desu.",
+    "translated_content": "嗓子疼的是.",
+    "explanation": "",
+    "id": 7254759509290156034
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "おやおや。",
+    "phonetic_alphabet": "Oya2 oya.",
+    "translated_content": "哎呀哎呀.",
+    "explanation": "老年女性用",
+    "id": 7254759509290156035
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "そんなときには「しょうがはちみつ湯」がいいですよ。",
+    "phonetic_alphabet": "Sonna2 toki2 ni wa “shooga3-hachimitsu4-yu1” ga ii desu yo.",
+    "translated_content": "那种时候情况在, “生姜蜂蜜水“好的是.",
+    "explanation": "",
+    "id": 7254759509290156036
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "海斗が今、作っています。",
+    "phonetic_alphabet": "Kaito ga ima, tsukutte2 imasu.",
+    "translated_content": "海斗正在做呢.",
+    "explanation": "",
+    "id": 7254759509290156037
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "タムさん、できたよ。",
+    "phonetic_alphabet": "Tamu-san, dekita yo.",
+    "translated_content": "タム, 做好啦.",
+    "explanation": "说明自己刚刚制作好了某个东西.",
+    "id": 7254759509290156038
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "はい、どうぞ。",
+    "phonetic_alphabet": "Hai, doozo1.",
+    "translated_content": "来, 请.",
+    "explanation": "请对方喝东西的吆喝语",
+    "id": 7254759509290156039
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お大事に。",
+    "phonetic_alphabet": "Odaiji-ni5.",
+    "translated_content": "(多)保重",
+    "explanation": "对生病或受伤的人表示关心时说这句话，表示自己希望对方安心修养，早日康复",
+    "id": 7254759509290156040
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "頭が痛いんです。熱があるんです。",
+    "phonetic_alphabet": "Atama3 ga itai2-n desu. Netsu2 ga aru1-n desu.",
+    "translated_content": "头疼痛的是. 发热发生(存在)是.",
+    "explanation": "",
+    "id": 7254759509290156041
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お腹が痛いんです。",
+    "phonetic_alphabet": "Onaka3 ga itai-n desu.",
+    "translated_content": "肚子是疼痛的.",
+    "explanation": "",
+    "id": 7254759509290156042
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "気持ちが悪いんです。",
+    "phonetic_alphabet": "Kimochi3 ga warui2-n desu.",
+    "translated_content": "状态(感觉)是不舒服不好的.",
+    "explanation": "",
+    "id": 7254759509290156043
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "めまいがするんです。",
+    "phonetic_alphabet": "Memai2 ga surun2 desu.",
+    "translated_content": "头晕(眩晕)是做(发生)了.",
+    "explanation": "",
+    "id": 7254759509290156044
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "顔色",
+    "phonetic_alphabet": "kaoiro4",
+    "translated_content": "脸色",
+    "explanation": "n",
+    "id": 7254759509290156045
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "悪い",
+    "phonetic_alphabet": "warui2 ",
+    "translated_content": "不好的",
+    "explanation": "adj",
+    "id": 7254759509290156046
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "のど",
+    "phonetic_alphabet": "Nodo1 ",
+    "translated_content": "嗓子",
+    "explanation": "n",
+    "id": 7254759509290156047
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "痛い",
+    "phonetic_alphabet": "itai2 ",
+    "translated_content": "疼的",
+    "explanation": "adj",
+    "id": 7254759509290156048
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "おや",
+    "phonetic_alphabet": "Oya2 ",
+    "translated_content": "哎呀",
+    "explanation": "interj",
+    "id": 7254759509290156049
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "そんな",
+    "phonetic_alphabet": "Sonna2",
+    "translated_content": "那种",
+    "explanation": "pron",
+    "id": 7254759509290156050
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "とき",
+    "phonetic_alphabet": "toki2",
+    "translated_content": "时候",
+    "explanation": "n",
+    "id": 7254759509290156051
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "しょうが",
+    "phonetic_alphabet": "shooga3",
+    "translated_content": "生姜",
+    "explanation": "n",
+    "id": 7254759509290156052
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "はちみつ",
+    "phonetic_alphabet": "hachimitsu4",
+    "translated_content": "蜂蜜",
+    "explanation": "n",
+    "id": 7254759509290156053
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "湯",
+    "phonetic_alphabet": "yu1",
+    "translated_content": "(热温)水",
+    "explanation": "n",
+    "id": 7254759509290156054
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "今",
+    "phonetic_alphabet": "ima",
+    "translated_content": "现在",
+    "explanation": "adv",
+    "id": 7254759509290156055
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "作る",
+    "phonetic_alphabet": "tsukuru2",
+    "translated_content": "制作",
+    "explanation": "godan transitive verb",
+    "id": 7254759509290156056
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "作って",
+    "phonetic_alphabet": "tsukutte2",
+    "translated_content": "'作る'的te形",
+    "explanation": "godan transitive verb",
+    "id": 7254759509290156057
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "できる",
+    "phonetic_alphabet": "dekiru2",
+    "translated_content": "完成，形成，产生，出现",
+    "explanation": "ichidan intransitive verb",
+    "id": 7254759509290156058
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "できた",
+    "phonetic_alphabet": "dekiru2",
+    "translated_content": "'できる'的ta形",
+    "explanation": "ichidan intransitive verb",
+    "id": 7254759509290156059
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "大事",
+    "phonetic_alphabet": "daiji3",
+    "translated_content": "安然无恙的, 好的",
+    "explanation": "na-adj",
+    "id": 7254759509290156060
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "頭",
+    "phonetic_alphabet": "Atama3",
+    "translated_content": "头",
+    "explanation": "n",
+    "id": 7254759509290156061
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "熱",
+    "phonetic_alphabet": "Netsu2",
+    "translated_content": "发热",
+    "explanation": "n",
+    "id": 7254759509290156062
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ある",
+    "phonetic_alphabet": "aru1",
+    "translated_content": "存在",
+    "explanation": "v",
+    "id": 7254759509290156063
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "お腹",
+    "phonetic_alphabet": "Onaka3",
+    "translated_content": "肚子",
+    "explanation": "n",
+    "id": 7254759509290156064
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "気持ち",
+    "phonetic_alphabet": "Kimochi3",
+    "translated_content": "状态(感觉)",
+    "explanation": "n",
+    "id": 7254759509290156065
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "悪い",
+    "phonetic_alphabet": "warui2",
+    "translated_content": "不舒服不好的",
+    "explanation": "adj",
+    "id": 7254759509290156066
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "めまい",
+    "phonetic_alphabet": "Memai2",
+    "translated_content": "头晕(眩晕)",
+    "explanation": "n",
+    "id": 7254759509290156067
+  }
+]

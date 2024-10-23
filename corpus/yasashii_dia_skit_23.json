@@ -85,8 +85,8 @@
     "material_type": "word",
     "original_content": "ごはん",
     "phonetic_alphabet": "gohan1",
-    "translated_content": "食物",
-    "explanation": "较为正式的语气.",
+    "translated_content": "饭",
+    "explanation": "n",
     "id": 7254722080571162633
   },
   {
@@ -194,7 +194,7 @@
     "original_content": "漫画",
     "phonetic_alphabet": "Manga3",
     "translated_content": "漫画",
-    "explanation": "n",
+    "explanation": "n; 字形",
     "id": 7254722080571162645
   },
   {
