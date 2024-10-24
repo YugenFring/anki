@@ -1,0 +1,218 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "日曜日に、ピアノの演奏を聴きに行きました。",
+    "phonetic_alphabet": "Nichi-yoobi3 ni, piano no ensoo4 o kiki ni ikimashita.",
+    "translated_content": "星期天在, 钢琴演奏去听了.",
+    "explanation": "",
+    "id": 7255097672424521728
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どうでしたか。",
+    "phonetic_alphabet": "Doo deshita ka.",
+    "translated_content": "怎么样?",
+    "explanation": "询问某段经历怎么样.",
+    "id": 7255097672424521729
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "すばらしかったです。",
+    "phonetic_alphabet": "Subarashikatta4 desu.",
+    "translated_content": "棒极了.",
+    "explanation": "叙述过往的感受.",
+    "id": 7255097672424521730
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "それはよかったですね。",
+    "phonetic_alphabet": "Sore wa yokatta desu ne.",
+    "translated_content": "那太好了.",
+    "explanation": "对sb过往经历的赞同.",
+    "id": 7255097672424521731
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "写真をたくさん撮りました。",
+    "phonetic_alphabet": "Shashin o takusan torimashita.",
+    "translated_content": "我拍了好多照片.",
+    "explanation": "",
+    "id": 7255097672424521732
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "見てください。",
+    "phonetic_alphabet": "SMite kudasai.",
+    "translated_content": "请看..",
+    "explanation": "",
+    "id": 7255097672424521733
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あ！これ、悠輝さん・・・",
+    "phonetic_alphabet": "A! Kore, Yuuki-san",
+    "translated_content": "啊, 这是悠辉...",
+    "explanation": "",
+    "id": 7255097672424521734
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "今日、どこに行きましたか。",
+    "phonetic_alphabet": "Kyoo, doko ni ikimashita ka.",
+    "translated_content": "今天, 哪里你去了?",
+    "explanation": "",
+    "id": 7255097672424521735
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "原宿に、服を買いに行きました。",
+    "phonetic_alphabet": "Harajuku4 ni, fuku2 o kai ni ikimashita.",
+    "translated_content": "原宿在, 衣服买去了.",
+    "explanation": "",
+    "id": 7255097672424521736
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "すしを食べに行きました。",
+    "phonetic_alphabet": "Sushi1 o tabe ni ikimashita.",
+    "translated_content": "去吃寿司了.",
+    "explanation": "",
+    "id": 7255097672424521737
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "野球を見に行きました。",
+    "phonetic_alphabet": "Yakyuu3 o mi ni ikimashita.",
+    "translated_content": "去看棒球了.",
+    "explanation": "",
+    "id": 7255097672424521738
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "友達に会いに行きました。",
+    "phonetic_alphabet": "Tomodachi4 ni ai ni ikimashsita.",
+    "translated_content": "去见朋友了.",
+    "explanation": "",
+    "id": 7255097672424521739
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "日曜日",
+    "phonetic_alphabet": "Nichi-yoobi3",
+    "translated_content": "星期天",
+    "explanation": "n",
+    "id": 7255097672424521740
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ピアノ",
+    "phonetic_alphabet": "piano",
+    "translated_content": "钢琴",
+    "explanation": "n",
+    "id": 7255097672424521741
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "演奏",
+    "phonetic_alphabet": "ensoo4",
+    "translated_content": "演奏",
+    "explanation": "n",
+    "id": 7255097672424521742
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "聴く",
+    "phonetic_alphabet": "kiku2",
+    "translated_content": "听",
+    "explanation": "godan transitive verb",
+    "id": 7255097672424521743
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "聴きます",
+    "phonetic_alphabet": "kikimasu2",
+    "translated_content": "'聴く'的masu形",
+    "explanation": "godan transitive verb",
+    "id": 7255097672424521744
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "原宿",
+    "phonetic_alphabet": "Harajuku4",
+    "translated_content": "原宿",
+    "explanation": "n",
+    "id": 7255097672424521745
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "買う",
+    "phonetic_alphabet": "kau2",
+    "translated_content": "购买",
+    "explanation": "godan transitive verb",
+    "id": 7255097672424521746
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "買います",
+    "phonetic_alphabet": "kaimasu2",
+    "translated_content": "'買う'的masu形",
+    "explanation": "godan transitive verb",
+    "id": 7255097672424521747
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "野球",
+    "phonetic_alphabet": "Yakyuu3",
+    "translated_content": "棒球",
+    "explanation": "n",
+    "id": 7255097672424521748
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "友達",
+    "phonetic_alphabet": "Tomodachi4",
+    "translated_content": "朋友",
+    "explanation": "n",
+    "id": 7255097672424521749
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "会う",
+    "phonetic_alphabet": "au1",
+    "translated_content": "会见, 遇见, 见面",
+    "explanation": "godan intransitive verb",
+    "id": 7255097672424521750
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "会います",
+    "phonetic_alphabet": "aimasu1",
+    "translated_content": "'会う'的masu形",
+    "explanation": "godan intransitive verb",
+    "id": 7255097672424521751
+  }
+]

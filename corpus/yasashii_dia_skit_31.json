@@ -1,0 +1,18 @@
+[
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "今度の土曜日、海斗と忍者博物館に行きます。",
+        "phonetic_alphabet": "Kondo1 no do-yoobi2, Kaito to Ninja1-Hakubutsukan4 ni ikimasu.",
+        "translated_content": "最近的这个星期六, 海斗和忍者博物馆向去.",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "マイクさんは、本当に忍者が好きですね。",
+        "phonetic_alphabet": "Maiku-san wa, hontoo ni ninja ga suki desu ne.",
+        "translated_content": "迈克, 真的是喜欢忍者的.",
+        "explanation": ""
+    }
+]
