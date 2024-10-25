@@ -1,0 +1,263 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "箱根には１時に着くよ。",
+    "phonetic_alphabet": "Hakone ni wa ichi2-ji1 ni tsuku12 yo.",
+    "translated_content": "箱根到1点在到达.",
+    "explanation": "较为轻松的语气.",
+    "id": 7255480505815040000
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "タムは何がしたい？",
+    "phonetic_alphabet": "Tamu wa nani ga shitai?",
+    "translated_content": "什么想做?",
+    "explanation": "较为轻松的语气.",
+    "id": 7255480505815040001
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "大涌谷に行って、黒卵が食べたいです。",
+    "phonetic_alphabet": "Oowaku?-dani2 ni itte, kuro1 tamago23 ga tabetai desu.",
+    "translated_content": "大涌谷想去, 黑鸡蛋想吃是.",
+    "explanation": "",
+    "id": 7255480505815040002
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "綾香さん、卵は本当に黒いんですか。",
+    "phonetic_alphabet": "Ayaka-san, tamago wa hontoo ni kuroin2 desu ka.",
+    "translated_content": "綾香さん, 鸡蛋真地黑色是吗?",
+    "explanation": "",
+    "id": 7255480505815040003
+  },
+  {
+    "language_type": "JP",
+    "material_type": "phrase",
+    "original_content": "うん",
+    "phonetic_alphabet": "Un",
+    "translated_content": "嗯",
+    "explanation": "interject",
+    "id": 7255480505815040004
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "でもね、黒いのは外側だけ。",
+    "phonetic_alphabet": "Demo ne, kuroi2 no wa sotogawa4 dake.",
+    "translated_content": "不过呢, 黑色外面仅仅.",
+    "explanation": "较为轻松的语气.",
+    "id": 7255480505815040005
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "中は普通のゆで卵。",
+    "phonetic_alphabet": "Naka1 wa futsuu3 no yude2-tamago.",
+    "translated_content": "里面普通的煮鸡蛋.",
+    "explanation": "较为轻松的语气.",
+    "id": 7255480505815040006
+  },
+  {
+    "language_type": "JP",
+    "material_type": "phrase",
+    "original_content": "へえ",
+    "phonetic_alphabet": "Hee",
+    "translated_content": "哦~",
+    "explanation": "interject; 得知某个新消息后的惊讶.",
+    "id": 7255480505815040007
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "今日は、どこに行きましたか。",
+    "phonetic_alphabet": "Kyoo wa, doko ni ikimashita ka.",
+    "translated_content": "今天, 哪里去了.",
+    "explanation": "",
+    "id": 7255480505815040008
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "美術館に行って、ご飯を食べて、それから遊覧船に乗りました。",
+    "phonetic_alphabet": "Bijutsu1-kan1 ni itte, gohan wo tabete, sorekara yuuransen6 ni norimashita.",
+    "translated_content": "美术馆去了, 饭吃了, 然后游览船乘坐了.",
+    "explanation": "",
+    "id": 7255480505815040009
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "高尾山に登って、写真を撮りたいです。",
+    "phonetic_alphabet": "Takao-san ni nobotte3, shashin o toritai desu.",
+    "translated_content": "高尾山去登, 写真拍摄想是.",
+    "explanation": "",
+    "id": 7255480505815040010
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "渋谷に行って、買い物をして、ご飯を食べました。",
+    "phonetic_alphabet": "Shibuya ni itte, kaimono o shite, gohan o tabemashita.",
+    "translated_content": "涉谷去了, 买东西做了, 饭吃了.",
+    "explanation": "",
+    "id": 7255480505815040011
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お台場に行って、観覧車に乗って、温泉に入ります。",
+    "phonetic_alphabet": "Odaiba ni itte, kanransha3 ni notte, onsen ni hairimasu.",
+    "translated_content": "台场想去, 摩天轮想乘, 温泉想进去.",
+    "explanation": "",
+    "id": 7255480505815040012
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "箱根",
+    "phonetic_alphabet": "Hakone",
+    "translated_content": "箱根",
+    "explanation": "n",
+    "id": 7255480505815040013
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "大涌谷",
+    "phonetic_alphabet": "Oowaku",
+    "translated_content": "大涌谷",
+    "explanation": "n",
+    "id": 7255480505815040014
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "黒",
+    "phonetic_alphabet": "kuro1",
+    "translated_content": "黑色",
+    "explanation": "n",
+    "id": 7255480505815040015
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "外側",
+    "phonetic_alphabet": "sotogawa4",
+    "translated_content": "外面",
+    "explanation": "n",
+    "id": 7255480505815040016
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "美術館",
+    "phonetic_alphabet": "Bijutsu1-kan1",
+    "translated_content": "美术馆",
+    "explanation": "n",
+    "id": 7255480505815040017
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "美術",
+    "phonetic_alphabet": "Bijutsu1",
+    "translated_content": "美术",
+    "explanation": "n",
+    "id": 7255480505815040018
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "美術",
+    "phonetic_alphabet": "Bijutsu1",
+    "translated_content": "美术",
+    "explanation": "n",
+    "id": 7255480505815040019
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "それから",
+    "phonetic_alphabet": "sorekara",
+    "translated_content": "然后",
+    "explanation": "conjunct",
+    "id": 7255480505815040020
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "遊覧船",
+    "phonetic_alphabet": "yuuransen6",
+    "translated_content": "游览船",
+    "explanation": "n",
+    "id": 7255480505815040021
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "高尾山",
+    "phonetic_alphabet": "Takao-san",
+    "translated_content": "高尾山",
+    "explanation": "n",
+    "id": 7255480505815040022
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "登る",
+    "phonetic_alphabet": "noboru3",
+    "translated_content": "登, 攀登",
+    "explanation": "godan intransitive verb",
+    "id": 7255480505815040023
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "登って",
+    "phonetic_alphabet": "nobotte3",
+    "translated_content": "'登る'的te形",
+    "explanation": "godan intransitive verb",
+    "id": 7255480505815040024
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "渋谷",
+    "phonetic_alphabet": "Shibuya",
+    "translated_content": "涉谷",
+    "explanation": "n",
+    "id": 7255480505815040025
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "お台場",
+    "phonetic_alphabet": "Odaiba",
+    "translated_content": "台场",
+    "explanation": "n",
+    "id": 7255480505815040026
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "乗る",
+    "phonetic_alphabet": "noru2",
+    "translated_content": "乘坐",
+    "explanation": "godan intransitive verb",
+    "id": 7255480505815040027
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "乗って",
+    "phonetic_alphabet": "notte2",
+    "translated_content": "'乗る'的te形",
+    "explanation": "godan intransitive verb",
+    "id": 7255480505815040028
+  }
+]

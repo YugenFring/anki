@@ -1,0 +1,281 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どのくらい待ちますか。",
+    "phonetic_alphabet": "Dono-kurai15 machimasu ka.",
+    "translated_content": "多久等待要.",
+    "explanation": "",
+    "id": 7255403464822390784
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "15分くらいです。",
+    "phonetic_alphabet": "Juu-go1-fun1 kurai3 desu.",
+    "translated_content": "15分钟左右差不多是.",
+    "explanation": "",
+    "id": 7255403464822390785
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "本物の手裏剣だ。",
+    "phonetic_alphabet": "Honmono4 no shuriken4 da.",
+    "translated_content": "货真价实的手里剑(飞刀, 飞镖).",
+    "explanation": "较为轻松的语气",
+    "id": 7255403464822390786
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あの的に投げてください。",
+    "phonetic_alphabet": "Ano2 mato2 ni nagete2 kudasai.",
+    "translated_content": "那边的目标(靶子)向投请",
+    "explanation": "",
+    "id": 7255403464822390787
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "えい！",
+    "phonetic_alphabet": "",
+    "translated_content": "走!",
+    "explanation": "投掷东西的语气词",
+    "id": 7255403464822390788
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あ、落ちちゃった。",
+    "phonetic_alphabet": "A, ochichatta.",
+    "translated_content": "啊, 掉了.",
+    "explanation": "投掷东西没中时的感叹.",
+    "id": 7255403464822390789
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あと、どのくらいかかりますか。",
+    "phonetic_alphabet": "Ato, donokurai kakarimasu ka.",
+    "translated_content": "那个, 还有(时间)要花.",
+    "explanation": "",
+    "id": 7255403464822390790
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "20分くらいです。",
+    "phonetic_alphabet": "Nijuu3-ppun1 kurai desu.",
+    "translated_content": "20分钟左右差不多是.",
+    "explanation": "",
+    "id": 7255403464822390791
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どのくらい歩きますか。",
+    "phonetic_alphabet": "Donokurai arukimasu ka.",
+    "translated_content": "多久(要)走是.",
+    "explanation": "",
+    "id": 7255403464822390792
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どのくらいもちますか。",
+    "phonetic_alphabet": "Donokurai mochimasu ka.",
+    "translated_content": "多久(能)保存是.",
+    "explanation": "",
+    "id": 7255403464822390793
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あと、どのくらい日本にいますか。",
+    "phonetic_alphabet": "Ato, donokurai Nihon2 ni imasu2 ka.",
+    "translated_content": "还有, 多久日本在(要)在.",
+    "explanation": "",
+    "id": 7255403464822390794
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "どのくらい",
+    "phonetic_alphabet": "Dono-kurai15",
+    "translated_content": "多久",
+    "explanation": "expression",
+    "id": 7255403464822390795
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "くらい",
+    "phonetic_alphabet": "kurai3",
+    "translated_content": "左右",
+    "explanation": "suffix",
+    "id": 7255403464822390796
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "待つ",
+    "phonetic_alphabet": "matsu1",
+    "translated_content": "等待",
+    "explanation": "godan transitive intransitive verb",
+    "id": 7255403464822390797
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "待ちます",
+    "phonetic_alphabet": "machimasu1",
+    "translated_content": "'待つ'的masu形",
+    "explanation": "godan transitive intransitive verb",
+    "id": 7255403464822390798
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "本物",
+    "phonetic_alphabet": "Honmono4",
+    "translated_content": "货真价实",
+    "explanation": "n",
+    "id": 7255403464822390799
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "手裏剣",
+    "phonetic_alphabet": "shuriken4",
+    "translated_content": "手里剑(飞刀, 飞镖)",
+    "explanation": "n",
+    "id": 7255403464822390800
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "的",
+    "phonetic_alphabet": "mato2",
+    "translated_content": "目标(靶子)",
+    "explanation": "n",
+    "id": 7255403464822390801
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "投げる",
+    "phonetic_alphabet": "nageru2",
+    "translated_content": "投掷",
+    "explanation": "ichidan transitive verb",
+    "id": 7255403464822390802
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "投げて",
+    "phonetic_alphabet": "nagete2",
+    "translated_content": "'投げる'的te形",
+    "explanation": "ichidan transitive verb",
+    "id": 7255403464822390803
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "落ちる",
+    "phonetic_alphabet": "ochiru2",
+    "translated_content": "掉落",
+    "explanation": "ichidan intransitive verb",
+    "id": 7255403464822390804
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ちゃう",
+    "phonetic_alphabet": "chau",
+    "translated_content": "完成(可能略带遗憾)",
+    "explanation": "godan auxiliary verb",
+    "id": 7255403464822390805
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ちゃった",
+    "phonetic_alphabet": "chatta",
+    "translated_content": "'ちゃう'的past形",
+    "explanation": "godan auxiliary verb",
+    "id": 7255403464822390806
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "掛かる",
+    "phonetic_alphabet": "kakaru2",
+    "translated_content": "花费",
+    "explanation": "godan intransitive verb; 字形",
+    "id": 7255403464822390807
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "かかる",
+    "phonetic_alphabet": "kakaru2",
+    "translated_content": "花费",
+    "explanation": "godan intransitive verb; 假名形",
+    "id": 7255403464822390808
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "かかります",
+    "phonetic_alphabet": "kakarimasu2",
+    "translated_content": "'かかる'的masu形",
+    "explanation": "godan intransitive verb; 假名形",
+    "id": 7255403464822390809
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "歩く",
+    "phonetic_alphabet": "aruku2",
+    "translated_content": "步行, 走路",
+    "explanation": "godan intransitive verb",
+    "id": 7255403464822390810
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "歩きます",
+    "phonetic_alphabet": "arukimasu2",
+    "translated_content": "'歩く'的masu形",
+    "explanation": "godan intransitive verb",
+    "id": 7255403464822390811
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "もつ",
+    "phonetic_alphabet": "motsu1",
+    "translated_content": "保存",
+    "explanation": "godan transitive verb",
+    "id": 7255403464822390812
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "もちます",
+    "phonetic_alphabet": "mochimasu1",
+    "translated_content": "'もつ'的masu形",
+    "explanation": "godan transitive verb",
+    "id": 7255403464822390813
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "もちます",
+    "phonetic_alphabet": "mochimasu1",
+    "translated_content": "'もつ'的masu形",
+    "explanation": "godan transitive verb",
+    "id": 7255403464822390814
+  }
+]

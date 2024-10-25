@@ -1,0 +1,299 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "メロンパフェでございます。",
+    "phonetic_alphabet": "Meron1-pafe1 de gozaimasu.",
+    "translated_content": "这是哈密瓜芭菲.",
+    "explanation": "服务员用语",
+    "id": 7255403463664762880
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "おいしそう!",
+    "phonetic_alphabet": "Oishisoo!",
+    "translated_content": "(似乎)好诱人啊!.",
+    "explanation": "",
+    "id": 7255403463664762881
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "タム、悠輝さんと、どこで会ったの？!",
+    "phonetic_alphabet": "Tamu, Yuuki-san to, doko de atta no?",
+    "translated_content": "タム, 你和悠辉在哪儿遇见的?",
+    "explanation": "较为轻松的语气.",
+    "id": 7255403463664762882
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "小学校でボランティアをしました。",
+    "phonetic_alphabet": "Shoogakkoo3 de borant(h)ia o shimashita.",
+    "translated_content": "在(一所)小学做志愿者.",
+    "explanation": "",
+    "id": 7255403463664762883
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "一緒に歌ったり、踊ったりしました。",
+    "phonetic_alphabet": "Issho ni utattari, odottari shimashita.",
+    "translated_content": "一起唱歌, 一起跳舞.",
+    "explanation": "",
+    "id": 7255403463664762884
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "そうだったの。",
+    "phonetic_alphabet": "Soo datta1 no.",
+    "translated_content": "是吗",
+    "explanation": "对sb过往经历的表述",
+    "id": 7255403463664762885
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "はい。悠輝さんに会いたいです。",
+    "phonetic_alphabet": "Hai. Yuuki-san ni aitai desu.",
+    "translated_content": "是的. 我很想(再)见到悠辉.",
+    "explanation": "",
+    "id": 7255403463664762886
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "北海道で何をしますか。",
+    "phonetic_alphabet": "Hokkaidoo de nani o shimasu ka.",
+    "translated_content": "在北海道(你)打算做什么.",
+    "explanation": "",
+    "id": 7255403463664762887
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ハイキングをしたり、温泉に入ったりしたいです。",
+    "phonetic_alphabet": "Haikingu o shitari, onsen4 ni haittari shitai desu.",
+    "translated_content": "想郊游, 洗温泉.",
+    "explanation": "",
+    "id": 7255403463664762888
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "買い物をしたり、海で泳いだりしました。",
+    "phonetic_alphabet": "Kaimono4 o shitari, umi1 de oyoidari shimashita.",
+    "translated_content": "做购物, 在海里游泳.",
+    "explanation": "",
+    "id": 7255403463664762889
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お寺に行ったり、着物を着たりしたいです。",
+    "phonetic_alphabet": "Otera ni ittari, kimono3 o kitari shitai desu.",
+    "translated_content": "去寺院, 穿和服.",
+    "explanation": "",
+    "id": 7255403463664762890
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "テレビを見たり、昼寝をしたりしました。",
+    "phonetic_alphabet": "Terebi o mitari, hirune3 o shitari shimashita.",
+    "translated_content": "看电视, 睡午觉.",
+    "explanation": "",
+    "id": 7255403463664762891
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "メロン",
+    "phonetic_alphabet": "Meron1",
+    "translated_content": "哈密瓜",
+    "explanation": "n",
+    "id": 7255403463664762892
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "パフェ",
+    "phonetic_alphabet": "pafe1",
+    "translated_content": "芭菲",
+    "explanation": "n",
+    "id": 7255403463664762893
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "でございます",
+    "phonetic_alphabet": "de gozaimasu",
+    "translated_content": "'です'的polite形式",
+    "explanation": "v",
+    "id": 7255403463664762894
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "と",
+    "phonetic_alphabet": "to",
+    "translated_content": "和",
+    "explanation": "particle",
+    "id": 7255403463664762895
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "会った",
+    "phonetic_alphabet": "atta1",
+    "translated_content": "'会う'的ta形",
+    "explanation": "godan intransitive verb",
+    "id": 7255403463664762896
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "小学校",
+    "phonetic_alphabet": "Shoogakkoo3",
+    "translated_content": "小学",
+    "explanation": "n",
+    "id": 7255403463664762897
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ボランティア",
+    "phonetic_alphabet": "borant(h)ia",
+    "translated_content": "志愿者",
+    "explanation": "n",
+    "id": 7255403463664762898
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "歌う",
+    "phonetic_alphabet": "utau3",
+    "translated_content": "歌唱",
+    "explanation": "godan transitive/intransitive verb",
+    "id": 7255403463664762899
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "歌って",
+    "phonetic_alphabet": "utatte3",
+    "translated_content": "'歌う'的te形",
+    "explanation": "godan transitive/intransitive verb",
+    "id": 7255403463664762900
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "踊る",
+    "phonetic_alphabet": "odoru3",
+    "translated_content": "跳舞",
+    "explanation": "godan intransitive verb",
+    "id": 7255403463664762901
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "踊って",
+    "phonetic_alphabet": "odotte3",
+    "translated_content": "'踊る'的te形",
+    "explanation": "godan intransitive verb",
+    "id": 7255403463664762902
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "だった",
+    "phonetic_alphabet": "datta1",
+    "translated_content": "'だ'的ta形",
+    "explanation": "v",
+    "id": 7255403463664762903
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "買い物",
+    "phonetic_alphabet": "Kaimono4",
+    "translated_content": "购物",
+    "explanation": "n",
+    "id": 7255403463664762904
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "海",
+    "phonetic_alphabet": "umi1",
+    "translated_content": "海",
+    "explanation": "n",
+    "id": 7255403463664762905
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "泳ぐ",
+    "phonetic_alphabet": "oyogu2",
+    "translated_content": "游泳",
+    "explanation": "godan intransitive verb",
+    "id": 7255403463664762906
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "泳いで",
+    "phonetic_alphabet": "oyoide2",
+    "translated_content": "'泳ぐ'的te形",
+    "explanation": "godan intransitive verb",
+    "id": 7255403463664762907
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "着物",
+    "phonetic_alphabet": "kimono3",
+    "translated_content": "和服",
+    "explanation": "n",
+    "id": 7255403463664762908
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "着る",
+    "phonetic_alphabet": "kiru2",
+    "translated_content": "穿",
+    "explanation": "ichidan transitive verb",
+    "id": 7255403463664762909
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "着て",
+    "phonetic_alphabet": "kite2",
+    "translated_content": "'着る'的te形",
+    "explanation": "ichidan transitive verb",
+    "id": 7255403463664762910
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "テレビ",
+    "phonetic_alphabet": "Terebi",
+    "translated_content": "电视",
+    "explanation": "n",
+    "id": 7255403463664762911
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "昼寝",
+    "phonetic_alphabet": "hirune3",
+    "translated_content": "睡午觉",
+    "explanation": "n",
+    "id": 7255403463664762912
+  }
+]

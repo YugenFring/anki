@@ -1,0 +1,209 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "みんなごはんを食べています。",
+    "phonetic_alphabet": "Minna3 gohan1 o tabete2 imasu.",
+    "translated_content": "大家食物在吃.",
+    "explanation": "较为正式的语气.",
+    "id": 7254722080571162624
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "本当にかわいいね。",
+    "phonetic_alphabet": "Hontoo4 ni kawaii3 ne.",
+    "translated_content": "真地好可爱呀.",
+    "explanation": "",
+    "id": 7254722080571162625
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "おいで、おいで！",
+    "phonetic_alphabet": "Oide3~",
+    "translated_content": "过来, 过来!.",
+    "explanation": "较为轻松的语气.",
+    "id": 7254722080571162626
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "私はこの子が好き。",
+    "phonetic_alphabet": "Watashi wa kono2 ko ga suki2.",
+    "translated_content": "我啊, (对)这只幼崽(是)喜欢的.",
+    "explanation": "较为轻松的语气.",
+    "id": 7254722080571162627
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "私はこの猫が好きです。",
+    "phonetic_alphabet": "Watashi wa kono neko1 ga suki desu.",
+    "translated_content": "我这只猫是喜欢的.",
+    "explanation": "较为正式的语气.",
+    "id": 7254722080571162628
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "猫カフェって、リラックスできるよね。",
+    "phonetic_alphabet": "Neko-kafe3 tte, rirakkusu2 dekiru yo ne.",
+    "translated_content": "猫咖轻松可以让(人)(感到)吧.",
+    "explanation": "较为轻松的语气.",
+    "id": 7254722080571162629
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ほんとですね",
+    "phonetic_alphabet": "Honto3 desu ne.",
+    "translated_content": "真是这样.",
+    "explanation": "较为正式的语气.",
+    "id": 7254722080571162630
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "食べ物は、何が好きですか。",
+    "phonetic_alphabet": "Tabemono3 wa, nani ga suki desu ka.",
+    "translated_content": "吃的东西, 什么(你)喜欢?",
+    "explanation": "较为正式的语气.",
+    "id": 7254722080571162631
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "すしが好きです。",
+    "phonetic_alphabet": "Sushi2 ga suki desu.",
+    "translated_content": "(我是)寿司喜欢的.",
+    "explanation": "较为正式的语气.",
+    "id": 7254722080571162632
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ごはん",
+    "phonetic_alphabet": "gohan1",
+    "translated_content": "饭",
+    "explanation": "n",
+    "id": 7254722080571162633
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "本当に",
+    "phonetic_alphabet": "Hontoo4 ni",
+    "translated_content": "真地",
+    "explanation": "adv",
+    "id": 7254722080571162634
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "おいで",
+    "phonetic_alphabet": "Oide3",
+    "translated_content": "过来",
+    "explanation": "expression",
+    "id": 7254722080571162635
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "子",
+    "phonetic_alphabet": "ko",
+    "translated_content": "幼崽",
+    "explanation": "n",
+    "id": 7254722080571162636
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "好き",
+    "phonetic_alphabet": "suki2",
+    "translated_content": "喜欢的",
+    "explanation": "adj",
+    "id": 7254722080571162637
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "猫",
+    "phonetic_alphabet": "neko1",
+    "translated_content": "猫",
+    "explanation": "n",
+    "id": 7254722080571162638
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "カフェ",
+    "phonetic_alphabet": "kafe3",
+    "translated_content": "咖啡",
+    "explanation": "n",
+    "id": 7254722080571162639
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "リラックス",
+    "phonetic_alphabet": "rirakkusu2",
+    "translated_content": "轻松",
+    "explanation": "n",
+    "id": 7254722080571162640
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ほんと",
+    "phonetic_alphabet": "Honto3",
+    "translated_content": "真的",
+    "explanation": "adj",
+    "id": 7254722080571162641
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "食べ物",
+    "phonetic_alphabet": "Tabemono3",
+    "translated_content": "食物",
+    "explanation": "n",
+    "id": 7254722080571162642
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "すし",
+    "phonetic_alphabet": "Sushi2",
+    "translated_content": "寿司",
+    "explanation": "n",
+    "id": 7254722080571162643
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "JーPOP",
+    "phonetic_alphabet": "Jee-poppu3",
+    "translated_content": "日本流行音乐",
+    "explanation": "n",
+    "id": 7254722080571162644
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "漫画",
+    "phonetic_alphabet": "Manga3",
+    "translated_content": "漫画",
+    "explanation": "n; 字形",
+    "id": 7254722080571162645
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "サッカー",
+    "phonetic_alphabet": "Sakkaa1",
+    "translated_content": "足球",
+    "explanation": "n",
+    "id": 7254722080571162646
+  }
+]

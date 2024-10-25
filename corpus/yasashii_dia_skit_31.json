@@ -1,0 +1,182 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "今度の土曜日、海斗と忍者博物館に行きます。",
+    "phonetic_alphabet": "Kondo1 no do-yoobi2, Kaito to Ninja1-Hakubutsukan4 ni ikimasu.",
+    "translated_content": "最近的这个星期六, 海斗和忍者博物馆向去.",
+    "explanation": "",
+    "id": 7255403463765426176
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "マイクさんは、本当に忍者が好きですね。",
+    "phonetic_alphabet": "Maiku-san wa, hontoo ni ninja ga suki desu ne.",
+    "translated_content": "迈克, 真的是喜欢忍者的.",
+    "explanation": "",
+    "id": 7255403463765426177
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "はい。みんなで一緒に行きませんか。",
+    "phonetic_alphabet": "Minna de issho ni ikimasen ka.",
+    "translated_content": "是的. (以)大家一起(的方式)一同去, 好不好?",
+    "explanation": "提议做sth",
+    "id": 7255403463765426178
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ああ、土曜日はちょっと・・・",
+    "phonetic_alphabet": "Aa, do-yoobi wa chotto1…",
+    "translated_content": "啊啊, 星期六不是很方便...",
+    "explanation": "委婉拒绝sth",
+    "id": 7255403463765426179
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "私も授業があります。",
+    "phonetic_alphabet": "Watashi mo jugyoo1 ga arimasu.",
+    "translated_content": "我也有课.",
+    "explanation": "",
+    "id": 7255403463765426180
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "残念。",
+    "phonetic_alphabet": "Zannen3",
+    "translated_content": "真不巧, 真遗憾.",
+    "explanation": "interject",
+    "id": 7255403463765426181
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "じゃあ、2人で行こう。",
+    "phonetic_alphabet": "Jaa, futari3 de ikoo.",
+    "translated_content": "那, (以)(我们)2人(的方式)去(提议建议, 更加口语化)吧.",
+    "explanation": "较为轻松的语气",
+    "id": 7255403463765426182
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "今晩、一緒にごはんをたべに行きませんか。",
+    "phonetic_alphabet": "Konban1, issho ni gohan1 o tabe ni ikimasen ka.",
+    "translated_content": "今晚, 一同去吃饭, 好不好?",
+    "explanation": "提议做sth",
+    "id": 7255403463765426183
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "いいですね。行きましょう。",
+    "phonetic_alphabet": "Ii desu ne. Ikimashoo.",
+    "translated_content": "好啊.一起去吧.",
+    "explanation": "应允做sth",
+    "id": 7255403463765426184
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "みんなでバーベキューをしませんか。",
+    "phonetic_alphabet": "Minna de baabekyuu o shimasen ka.",
+    "translated_content": "大家一起烧烤做, 好不好?",
+    "explanation": "提议做sth",
+    "id": 7255403463765426185
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "一緒に歌いませんか。",
+    "phonetic_alphabet": "Issho ni utaimasen ka.",
+    "translated_content": "一同唱歌, 好不好?",
+    "explanation": "提议做sth",
+    "id": 7255403463765426186
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "やってみませんか。",
+    "phonetic_alphabet": "Yatte mimasen ka.",
+    "translated_content": "(尝试)做做看, 好不好?",
+    "explanation": "提议做sth",
+    "id": 7255403463765426187
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "今度",
+    "phonetic_alphabet": "Kondo1",
+    "translated_content": "最近",
+    "explanation": "n",
+    "id": 7255403463765426188
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "博物館",
+    "phonetic_alphabet": "Hakubutsukan4",
+    "translated_content": "博物馆",
+    "explanation": "n",
+    "id": 7255403463765426189
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "行きませんか",
+    "phonetic_alphabet": "ikimasen2",
+    "translated_content": "'行く'的polite-negative形",
+    "explanation": "godan intransitive verb",
+    "id": 7255403463765426190
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "授業",
+    "phonetic_alphabet": "jugyoo1",
+    "translated_content": "课",
+    "explanation": "n",
+    "id": 7255403463765426191
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "今晩",
+    "phonetic_alphabet": "Konban1",
+    "translated_content": "今晚",
+    "explanation": "n",
+    "id": 7255403463765426192
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "バーベキュー",
+    "phonetic_alphabet": "baabekyuu",
+    "translated_content": "烧烤",
+    "explanation": "n",
+    "id": 7255403463765426193
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "やる",
+    "phonetic_alphabet": "yaru2",
+    "translated_content": "去做",
+    "explanation": "godan transitive verb",
+    "id": 7255403463765426194
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "やって",
+    "phonetic_alphabet": "Yatte2",
+    "translated_content": "'やる'的te形",
+    "explanation": "godan transitive verb",
+    "id": 7255403463765426195
+  }
+]

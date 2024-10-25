@@ -1,0 +1,182 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "わあ、マンガがたくさん！",
+    "phonetic_alphabet": "Waa, manga ga takusan!",
+    "translated_content": "哇, 漫画好多啊.",
+    "explanation": "较为轻松的语气.",
+    "id": 7255480503030022144
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "タムさん、このマンガ、知ってる。",
+    "phonetic_alphabet": "Tamu-san, kono manga, shitteru.",
+    "translated_content": "~, 这套漫画, 知道吗?",
+    "explanation": "较为轻松的语气.",
+    "id": 7255480503030022145
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "はい、読んだことあります。",
+    "phonetic_alphabet": "Hai, yonda koto arimasu.",
+    "translated_content": "是的, 读过(名词化)有",
+    "explanation": "",
+    "id": 7255480503030022146
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "え？日本語で読んだの？",
+    "phonetic_alphabet": "E? Nihongo de yonda no?",
+    "translated_content": "欸? 日语通过读过吗?",
+    "explanation": "较为轻松的语气.",
+    "id": 7255480503030022147
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "いえ、ベトナム語です。",
+    "phonetic_alphabet": "ie, Betonamugo desu.",
+    "translated_content": "不, 越南语是.",
+    "explanation": "",
+    "id": 7255480503030022148
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "とてもおもしろかったです。",
+    "phonetic_alphabet": "Totemo3 omoshirokatta desu.",
+    "translated_content": "非常有意思的.",
+    "explanation": "叙述过往的感受.",
+    "id": 7255480503030022149
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "明日、盆踊りがありますよ。",
+    "phonetic_alphabet": "Ashita3, bon12-odori3 ga arimasu yo.",
+    "translated_content": "明天, 盂兰盆盆会有哦.",
+    "explanation": "",
+    "id": 7255480503030022150
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "盆踊り、ネットで見たことあります。でも本物は見たことないです。",
+    "phonetic_alphabet": "Bon-odori, netto de mita koto arimasu. Demo1 honmono wa mita koto nai desu.",
+    "translated_content": "盂兰盆盆会, internet 通过看过有的. 但是真实看过没有的是.",
+    "explanation": "",
+    "id": 7255480503030022151
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "沖縄、行ったことあります。",
+    "phonetic_alphabet": "Okinawa, itta koto arimasu.",
+    "translated_content": "冲绳, 去过有.",
+    "explanation": "",
+    "id": 7255480503030022152
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "天ぷら、食べたことないです。",
+    "phonetic_alphabet": "Tenpura, tabeta koto nai desu.",
+    "translated_content": "天妇罗, 吃过没有的是.",
+    "explanation": "",
+    "id": 7255480503030022153
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "その話、聞いたことあります。",
+    "phonetic_alphabet": "Sono2 hanashi3, kiita koto arimasu.",
+    "translated_content": "那些谈论, 听过有的.",
+    "explanation": "",
+    "id": 7255480503030022154
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "知る",
+    "phonetic_alphabet": "shiru2",
+    "translated_content": "知道, 了解",
+    "explanation": "godan transitive verb",
+    "id": 7255480503030022155
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "知って",
+    "phonetic_alphabet": "shitte2",
+    "translated_content": "'知る'的te形",
+    "explanation": "godan transitive verb",
+    "id": 7255480503030022156
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "読む",
+    "phonetic_alphabet": "yomu1",
+    "translated_content": "阅读",
+    "explanation": "godan transitive verb",
+    "id": 7255480503030022157
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "読んだ",
+    "phonetic_alphabet": "yonda1",
+    "translated_content": "'読む'的ta形",
+    "explanation": "godan transitive verb",
+    "id": 7255480503030022158
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "盆踊り",
+    "phonetic_alphabet": "bon12-odori3",
+    "translated_content": "盂兰盆盆会",
+    "explanation": "n",
+    "id": 7255480503030022159
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "でも",
+    "phonetic_alphabet": "Demo1",
+    "translated_content": "但是",
+    "explanation": "particle",
+    "id": 7255480503030022160
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "話",
+    "phonetic_alphabet": "hanashi3",
+    "translated_content": "谈论",
+    "explanation": "n",
+    "id": 7255480503030022161
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "聞く",
+    "phonetic_alphabet": "kiku2",
+    "translated_content": "听闻, 听说",
+    "explanation": "godan transitive verb",
+    "id": 7255480503030022162
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "聞いた",
+    "phonetic_alphabet": "kiita2",
+    "translated_content": "'聞く'的ta形",
+    "explanation": "godan transitive verb",
+    "id": 7255480503030022163
+  }
+]

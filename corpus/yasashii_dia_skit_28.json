@@ -1,0 +1,218 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "大人1人お願いします。",
+    "phonetic_alphabet": "Otona3 hitori2 onegai-shimasu.",
+    "translated_content": "要一张大人票.",
+    "explanation": "",
+    "id": 7255046591849988096
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "写真を撮ってもいいですか。",
+    "phonetic_alphabet": "Shashin o totte mo ii desu ka.",
+    "translated_content": "拍照是可以的吗?",
+    "explanation": "",
+    "id": 7255046591849988097
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ええ、いいですよ。",
+    "phonetic_alphabet": "Ee, ii de su yo.",
+    "translated_content": "嗯, 是可以的.",
+    "explanation": "",
+    "id": 7255046591849988098
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "すてき！",
+    "phonetic_alphabet": "Suteki!3",
+    "translated_content": "真好!",
+    "explanation": "请求被允许之后的用语.",
+    "id": 7255046591849988099
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お客様、ここから先はご遠慮ください。",
+    "phonetic_alphabet": "Okyakusama4, koko2 kara1 saki1 wa go-enryo3-kudasai.",
+    "translated_content": "客人, 从这里往前请克制. (不要往前之意)",
+    "explanation": "工作人员用语",
+    "id": 7255046591849988100
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あ、すみません。",
+    "phonetic_alphabet": "",
+    "translated_content": "啊, 抱歉.",
+    "explanation": "为自己的行为感到抱歉.",
+    "id": 7255046591849988101
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "この服、試着してもいいですか。",
+    "phonetic_alphabet": "Kono fuku2, shichaku3-shite mo ii desu ka.",
+    "translated_content": "这件衣服, 试穿时可以的吗?",
+    "explanation": "",
+    "id": 7255046591849988102
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "もちろんです。",
+    "phonetic_alphabet": "Mochiron2 desu.",
+    "translated_content": "当然.",
+    "explanation": "服务员用语",
+    "id": 7255046591849988103
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "入ってもいいですか。",
+    "phonetic_alphabet": "Haitte mo ii desu ka.",
+    "translated_content": "进去是可以的吗?",
+    "explanation": "",
+    "id": 7255046591849988104
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "休んでもいいですか。",
+    "phonetic_alphabet": "Yasunde mo ii desu ka.",
+    "translated_content": "休息是可以的吗?",
+    "explanation": "",
+    "id": 7255046591849988105
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ここに座ってもいいですか。",
+    "phonetic_alphabet": "Koko ni suwatte mo ii desu ka.",
+    "translated_content": "这里是可以坐的吗?",
+    "explanation": "",
+    "id": 7255046591849988106
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "大人",
+    "phonetic_alphabet": "Otona3",
+    "translated_content": "大人, 成人",
+    "explanation": "",
+    "id": 7255046591849988107
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "1人",
+    "phonetic_alphabet": "hitori2",
+    "translated_content": "1个人",
+    "explanation": "count",
+    "id": 7255046591849988108
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "も",
+    "phonetic_alphabet": "mo",
+    "translated_content": "表请求允许",
+    "explanation": "particle",
+    "id": 7255046591849988109
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "お客様",
+    "phonetic_alphabet": "Okyakusama4",
+    "translated_content": "客人",
+    "explanation": "n",
+    "id": 7255046591849988110
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "先",
+    "phonetic_alphabet": "saki1",
+    "translated_content": "前",
+    "explanation": "n",
+    "id": 7255046591849988111
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "遠慮",
+    "phonetic_alphabet": "enryo3",
+    "translated_content": "克制",
+    "explanation": "n",
+    "id": 7255046591849988112
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "服",
+    "phonetic_alphabet": "fuku2",
+    "translated_content": "衣服",
+    "explanation": "n",
+    "id": 7255046591849988113
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "試着",
+    "phonetic_alphabet": "shichaku3",
+    "translated_content": "试穿",
+    "explanation": "n",
+    "id": 7255046591849988114
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "もちろん",
+    "phonetic_alphabet": "Mochiron2",
+    "translated_content": "当然",
+    "explanation": "adv",
+    "id": 7255046591849988115
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "休む",
+    "phonetic_alphabet": "yasumu2",
+    "translated_content": "休息",
+    "explanation": "godan intransitive verb",
+    "id": 7255046591849988116
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "休んで",
+    "phonetic_alphabet": "Yasunde2",
+    "translated_content": "'休む'的te形",
+    "explanation": "godan intransitive verb",
+    "id": 7255046591849988117
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "座る",
+    "phonetic_alphabet": "suwaru3",
+    "translated_content": "坐",
+    "explanation": "godan intransitive verb",
+    "id": 7255046591849988118
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "座って",
+    "phonetic_alphabet": "'座る'的te形",
+    "translated_content": "坐",
+    "explanation": "godan intransitive verb",
+    "id": 7255046591849988119
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "マイク、似合うね。かっこいい。",
+    "phonetic_alphabet": "Maiku, niau2 ne. Kakkoii3.",
+    "translated_content": "麦克, 真合适. 真酷, 真好看.",
+    "explanation": "较为轻松的语气.",
+    "id": 7255403464734310400
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "うれしいな。",
+    "phonetic_alphabet": "Ureshii3 na.",
+    "translated_content": "太好了.",
+    "explanation": "有强调, 或自言自语之意.",
+    "id": 7255403464734310401
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あのう、すみません。",
+    "phonetic_alphabet": "Anoo1, ~",
+    "translated_content": "那个, 打扰一下.",
+    "explanation": "",
+    "id": 7255403464734310402
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "忍者博物館まで,、どう行ったらいいですか。",
+    "phonetic_alphabet": "Ninja1-Hakubutsukan4 made, doo ittara ii desu ka.",
+    "translated_content": "到忍着博物馆, 怎么去比较好.",
+    "explanation": "",
+    "id": 7255403464734310403
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "この道をまっすぐ行ってください。",
+    "phonetic_alphabet": "Kono michi2 o massugu3 itte kudasai.",
+    "translated_content": "这条路(沿着)直走请.",
+    "explanation": "",
+    "id": 7255403464734310404
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "博物館は、左にあります。",
+    "phonetic_alphabet": "Hakubutsukan wa, hidari3 ni arimasu.",
+    "translated_content": "博物馆啊, 左边在.",
+    "explanation": "",
+    "id": 7255403464734310405
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "さあ、行こう！",
+    "phonetic_alphabet": "Saa2, ikoo!",
+    "translated_content": "那, 走吧!",
+    "explanation": "较为轻松的语气.",
+    "id": 7255403464734310406
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "金閣寺まで、どう行ったらいいですか。",
+    "phonetic_alphabet": "Kinkaku-ji made, doo ittara ii desu ka.",
+    "translated_content": "金阁寺到, 怎样去好一点.",
+    "explanation": "",
+    "id": 7255403464734310407
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "101番のバスに乗ってください。",
+    "phonetic_alphabet": "Hyaku-ichi-ban no basu ni notte kudasai.",
+    "translated_content": "101路bus乘坐请.",
+    "explanation": "",
+    "id": 7255403464734310408
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "このホテルまで、どう行ったらいいですか。",
+    "phonetic_alphabet": "Kono hoteru made, ~",
+    "translated_content": "这个hotel到, 怎样去好一点.",
+    "explanation": "",
+    "id": 7255403464734310409
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "新幹線のホームまで、どう行ったらいいですか。",
+    "phonetic_alphabet": "Shinkansen3 no hoomu made, ~",
+    "translated_content": "新干线的 platform 到, 怎样去好一点. ",
+    "explanation": "",
+    "id": 7255403464734310410
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "この店まで、どう行ったらいいですか。",
+    "phonetic_alphabet": "Kono mise2 made, ~",
+    "translated_content": "这家店到, 怎样去好一点.",
+    "explanation": "",
+    "id": 7255403464734310411
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "似合う",
+    "phonetic_alphabet": "niau2",
+    "translated_content": "合适的",
+    "explanation": "adj",
+    "id": 7255403464734310412
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "かっこいい",
+    "phonetic_alphabet": "Kakkoii3",
+    "translated_content": "真好看的",
+    "explanation": "adj",
+    "id": 7255403464734310413
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "うれしい",
+    "phonetic_alphabet": "Ureshii3",
+    "translated_content": "太好了的",
+    "explanation": "adj",
+    "id": 7255403464734310414
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "あのう",
+    "phonetic_alphabet": "Anoo1",
+    "translated_content": "那个",
+    "explanation": "interject",
+    "id": 7255403464734310415
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "行ったら",
+    "phonetic_alphabet": "ittara2",
+    "translated_content": "'行く'的conditional形",
+    "explanation": "godan intransitive verb",
+    "id": 7255403464734310416
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "道",
+    "phonetic_alphabet": "michi2",
+    "translated_content": "路",
+    "explanation": "n",
+    "id": 7255403464734310417
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "まっすぐ",
+    "phonetic_alphabet": "massugu3",
+    "translated_content": "直",
+    "explanation": "adv",
+    "id": 7255403464734310418
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "左",
+    "phonetic_alphabet": "hidari3",
+    "translated_content": "左边",
+    "explanation": "n",
+    "id": 7255403464734310419
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "行こう",
+    "phonetic_alphabet": "ikoo",
+    "translated_content": "'行く'的volitional形",
+    "explanation": "v",
+    "id": 7255403464734310420
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "乗って",
+    "phonetic_alphabet": "notte2",
+    "translated_content": "'乗る'的te形",
+    "explanation": "godan intransitive verb",
+    "id": 7255403464734310421
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ホーム",
+    "phonetic_alphabet": "hoomu",
+    "translated_content": "站台(platform)",
+    "explanation": "n",
+    "id": 7255403464734310422
+  }
+]

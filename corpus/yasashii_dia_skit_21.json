@@ -1,0 +1,263 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "もしもし、タムさん。",
+    "phonetic_alphabet": "Moshimoshi, Tamu-san.",
+    "translated_content": "喂, タム.",
+    "explanation": "给 sb 打电话.",
+    "id": 7254404951917494272
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "今、どこにいるの？",
+    "phonetic_alphabet": "Ima1, doko1 ni iru2 no?",
+    "translated_content": "现在, (你)哪里在存在?",
+    "explanation": "较为轻松的语气.",
+    "id": 7254404951917494273
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "時計台の中にいます。",
+    "phonetic_alphabet": "Tokeedai5 no naka1 ni imasu.",
+    "translated_content": "在钟楼里.",
+    "explanation": "说明自己的位置.",
+    "id": 7254404951917494274
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "え、中？",
+    "phonetic_alphabet": "E, naka?",
+    "translated_content": "啊, 里面?.",
+    "explanation": "对消息的小疑惑.",
+    "id": 7254404951917494275
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "じゃあ、ぼくもすぐそっちに行くね。",
+    "phonetic_alphabet": "Jaa, boku1 mo sugu1 socchi3 ni iku ne.",
+    "translated_content": "那, 我也马上那里向去.",
+    "explanation": "较为轻松的语气.",
+    "id": 7254404951917494276
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あ、海斗！こっち、こっち！",
+    "phonetic_alphabet": "A, Kaito! Kocchi3, kocchi!",
+    "translated_content": "啊, 海斗! 这边, 这边!",
+    "explanation": "较为轻松的语气.",
+    "id": 7254404951917494277
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ごめん、遅くなって。",
+    "phonetic_alphabet": "Gomen3, osoku3 natte.",
+    "translated_content": "对不起, (因为)晚了地变得.",
+    "explanation": "为自己迟到而道歉.",
+    "id": 7254404951917494278
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "今、どこにいますか。",
+    "phonetic_alphabet": "Ima1, doko1 ni imasu ka.",
+    "translated_content": "现在, (你)在哪里?",
+    "explanation": "较礼貌的语气.",
+    "id": 7254404951917494279
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "改札の前にいます。",
+    "phonetic_alphabet": "Kaisatsu4 no mae1 ni imasu.",
+    "translated_content": "在检票闸前面.",
+    "explanation": "说明自己的位置.",
+    "id": 7254404951917494280
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "コンビニの中にいます。",
+    "phonetic_alphabet": "Konbini no naka1 ni imasu.",
+    "translated_content": "在便利店里.",
+    "explanation": "说明自己的位置.",
+    "id": 7254404951917494281
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "インフォメーションの横にいます。",
+    "phonetic_alphabet": "Infomeeshon no yoko2 ni imasu.",
+    "translated_content": "在问询处旁边.",
+    "explanation": "说明自己的位置.",
+    "id": 7254404951917494282
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "エスカレーターの下にいます。",
+    "phonetic_alphabet": "Esukareetaa no shita2 ni imasu.",
+    "translated_content": "在自动电梯下面.",
+    "explanation": "说明自己的位置.",
+    "id": 7254404951917494283
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "今",
+    "phonetic_alphabet": "Ima1",
+    "translated_content": "现在",
+    "explanation": "adv",
+    "id": 7254404951917494284
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "どこ",
+    "phonetic_alphabet": "doko1",
+    "translated_content": "哪里",
+    "explanation": "pron",
+    "id": 7254404951917494285
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "いる",
+    "phonetic_alphabet": "iru2",
+    "translated_content": "存在",
+    "explanation": "v",
+    "id": 7254404951917494286
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "時計台",
+    "phonetic_alphabet": "Tokeedai5",
+    "translated_content": "钟楼",
+    "explanation": "n",
+    "id": 7254404951917494287
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "中",
+    "phonetic_alphabet": "naka1",
+    "translated_content": "里",
+    "explanation": "n",
+    "id": 7254404951917494288
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "そっち",
+    "phonetic_alphabet": "socchi3",
+    "translated_content": "那边",
+    "explanation": "pron; 较为轻松的形式",
+    "id": 7254404951917494289
+  },
+  {
+    "language_type": "JP",
+    "material_type": "phrase",
+    "original_content": "ごめん",
+    "phonetic_alphabet": "Gomen3",
+    "translated_content": "对不起",
+    "explanation": "常用道歉语.",
+    "id": 7254404951917494290
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "遅く",
+    "phonetic_alphabet": "osoku3",
+    "translated_content": "晚了",
+    "explanation": "adv",
+    "id": 7254404951917494291
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "なる",
+    "phonetic_alphabet": "naru1",
+    "translated_content": "结果, 最后, 变得",
+    "explanation": "godan intransitive verb",
+    "id": 7254404951917494292
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "なって",
+    "phonetic_alphabet": "natte1",
+    "translated_content": "'なる'的te形",
+    "explanation": "godan intransitive verb",
+    "id": 7254404951917494293
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "改札",
+    "phonetic_alphabet": "Kaisatsu4",
+    "translated_content": "检票闸",
+    "explanation": "n",
+    "id": 7254404951917494294
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "前",
+    "phonetic_alphabet": "mae1",
+    "translated_content": "前面",
+    "explanation": "n",
+    "id": 7254404951917494295
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "コンビニ",
+    "phonetic_alphabet": "Konbini",
+    "translated_content": "便利店",
+    "explanation": "n",
+    "id": 7254404951917494296
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "インフォメーション",
+    "phonetic_alphabet": "Infomeeshon",
+    "translated_content": "问询处",
+    "explanation": "n",
+    "id": 7254404951917494297
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "横",
+    "phonetic_alphabet": "yoko2",
+    "translated_content": "旁边",
+    "explanation": "n",
+    "id": 7254404951917494298
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "エスカレーター",
+    "phonetic_alphabet": "Esukareetaa",
+    "translated_content": "自动电梯",
+    "explanation": "n",
+    "id": 7254404951917494299
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "下",
+    "phonetic_alphabet": "shita2",
+    "translated_content": "下面",
+    "explanation": "n",
+    "id": 7254404951917494300
+  }
+]

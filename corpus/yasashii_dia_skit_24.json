@@ -1,0 +1,218 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "phrase",
+    "original_content": "いただきます。",
+    "phonetic_alphabet": "Itadakimasu.",
+    "translated_content": "开始吃啦.",
+    "explanation": "吃饭前的感谢语.",
+    "id": 7254740797006839808
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "日本食は健康にいいんですよ。",
+    "phonetic_alphabet": "Nihon2-shoku2 wa kenkoo4 ni iin desu yo.",
+    "translated_content": "日本料理, (对于)健康是好的哦.",
+    "explanation": "",
+    "id": 7254740797006839809
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "これ、生卵ですか。",
+    "phonetic_alphabet": "Kore2, nama1-tamago23 desu ka.",
+    "translated_content": "这个, 是生鸡蛋吗?",
+    "explanation": "",
+    "id": 7254740797006839810
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "私、生卵は食べられません。",
+    "phonetic_alphabet": "Watashi, nama-tamago wa taberaremasen2.",
+    "translated_content": "我, 生鸡蛋不能吃.",
+    "explanation": "",
+    "id": 7254740797006839811
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "そう。じゃあ、納豆もだめ？",
+    "phonetic_alphabet": "Soo. Jaa, nattoo3 mo dame2?",
+    "translated_content": "这样啊. 那, 纳豆也(是)不行的吗?",
+    "explanation": "较为轻松的语气",
+    "id": 7254740797006839812
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "納豆！大好きです。",
+    "phonetic_alphabet": "Nattoo! Daisuki1 desu.",
+    "translated_content": "纳豆! 特别喜欢.",
+    "explanation": "较为正式的语气",
+    "id": 7254740797006839813
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どうぞ、たくさん食べてください。",
+    "phonetic_alphabet": "Doozo1, takusan3 tabete kudasai.",
+    "translated_content": "请, 请多吃.",
+    "explanation": "较为正式的语气",
+    "id": 7254740797006839814
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "すみません。私、刺身は食べられません。",
+    "phonetic_alphabet": "~. Watashi, sashimi3 wa taberaremasen.",
+    "translated_content": "抱歉, 我, 刺身不能吃.",
+    "explanation": "较为正式的语气",
+    "id": 7254740797006839815
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "私、お酒は飲めません。",
+    "phonetic_alphabet": "~, osake2 wa nomemasen.",
+    "translated_content": "我, 酒不能喝.",
+    "explanation": "较为正式的语气",
+    "id": 7254740797006839816
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "いただく",
+    "phonetic_alphabet": "itadaku4",
+    "translated_content": "吃, 喝",
+    "explanation": "humble godan transitive verb",
+    "id": 7254740797006839817
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "食",
+    "phonetic_alphabet": "shoku2",
+    "translated_content": "料理",
+    "explanation": "n",
+    "id": 7254740797006839818
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "健康",
+    "phonetic_alphabet": "kenkoo4",
+    "translated_content": "健康",
+    "explanation": "n",
+    "id": 7254740797006839819
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "生卵",
+    "phonetic_alphabet": "nama1-tamago23",
+    "translated_content": "生鸡蛋",
+    "explanation": "n",
+    "id": 7254740797006839820
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "納豆",
+    "phonetic_alphabet": "nattoo3",
+    "translated_content": "纳豆",
+    "explanation": "n",
+    "id": 7254740797006839821
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "だめ",
+    "phonetic_alphabet": "dame2",
+    "translated_content": "不行的",
+    "explanation": "adj",
+    "id": 7254740797006839822
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "大好き",
+    "phonetic_alphabet": "Daisuki1",
+    "translated_content": "特别喜欢的",
+    "explanation": "adj",
+    "id": 7254740797006839823
+  },
+  {
+    "language_type": "JP",
+    "material_type": "phrase",
+    "original_content": "どうぞ",
+    "phonetic_alphabet": "Doozo1",
+    "translated_content": "请",
+    "explanation": "常用语",
+    "id": 7254740797006839824
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "刺身",
+    "phonetic_alphabet": "sashimi3",
+    "translated_content": "刺身",
+    "explanation": "n",
+    "id": 7254740797006839825
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "えび",
+    "phonetic_alphabet": "ebi2",
+    "translated_content": "虾",
+    "explanation": "n",
+    "id": 7254740797006839826
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "豚肉",
+    "phonetic_alphabet": "butaniku4",
+    "translated_content": "猪肉",
+    "explanation": "n",
+    "id": 7254740797006839827
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "お酒",
+    "phonetic_alphabet": "osake2",
+    "translated_content": "酒",
+    "explanation": "n",
+    "id": 7254740797006839828
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "飲む",
+    "phonetic_alphabet": "nomu1",
+    "translated_content": "喝",
+    "explanation": "godan transitive verb",
+    "id": 7254740797006839829
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "飲めません",
+    "phonetic_alphabet": "nomu1",
+    "translated_content": "'飲む'的可能否定礼貌形",
+    "explanation": "godan transitive verb",
+    "id": 7254740797006839830
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "食べられません",
+    "phonetic_alphabet": "taberaremasen",
+    "translated_content": "'食べる'的可能否定礼貌形",
+    "explanation": "v",
+    "id": 7254740797006839831
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ご注文は？",
+    "phonetic_alphabet": "Gochuumon wa?",
+    "translated_content": "(礼貌)来点什么?",
+    "explanation": "服务员用语.",
+    "id": 7255046591774490624
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "タムさん、何にする？",
+    "phonetic_alphabet": "~, nani ni suru?",
+    "translated_content": "心心, 来点什么呢?",
+    "explanation": "较为轻松的语气.",
+    "id": 7255046591774490625
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どれが一番おいしいですか。",
+    "phonetic_alphabet": "Dore1 ga ichiban2 oishii desu ka.",
+    "translated_content": "哪个最好吃?",
+    "explanation": "",
+    "id": 7255046591774490626
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "みそラーメンがおすすめだよ。",
+    "phonetic_alphabet": "Miso1-raamen1 ga osusume3 da yo.",
+    "translated_content": "味噌拉面是推荐(的)哦.",
+    "explanation": "较为轻松的语气.",
+    "id": 7255046591774490627
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "日本のラーメンはおいしいよ。",
+    "phonetic_alphabet": "Nihon no raamen wa oishii yo.",
+    "translated_content": "日本的拉面是好吃的.",
+    "explanation": "较为轻松的语气.",
+    "id": 7255046591774490628
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ぼくはみそラーメンが好きなんだ。",
+    "phonetic_alphabet": "Boku wa miso-raamen ga suki nan da.",
+    "translated_content": "我(强调)喜欢吃味噌拉面.",
+    "explanation": "较为轻松的语气.",
+    "id": 7255046591774490629
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "私、みそラーメンにします。",
+    "phonetic_alphabet": "Watashi, miso-raamen ni shimasu.",
+    "translated_content": "我要味噌拉面.",
+    "explanation": "",
+    "id": 7255046591774490630
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どれが一番人気がありますか。",
+    "phonetic_alphabet": "Dore ga ichiban ninki3 ga arimasu ka.",
+    "translated_content": "哪个是有最高的人气(的)?",
+    "explanation": "",
+    "id": 7255046591774490631
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "これがおすすめです。",
+    "phonetic_alphabet": "Kore ga osusume desu.",
+    "translated_content": "这个是推荐(的).",
+    "explanation": "",
+    "id": 7255046591774490632
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どれが一番安いですか。",
+    "phonetic_alphabet": "Dore ga ichiban yasui2 desu ka.",
+    "translated_content": "哪个是最便宜的?",
+    "explanation": "",
+    "id": 7255046591774490633
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どれが一番お得ですか。",
+    "phonetic_alphabet": "Dore ga ichiban otoku3 desu ka.",
+    "translated_content": "哪个是最实惠的?",
+    "explanation": "",
+    "id": 7255046591774490634
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どれが一番おもしろいですか。",
+    "phonetic_alphabet": "Dore ga ichiban omoshiroi4 desu ka.",
+    "translated_content": "哪个是最有趣的.",
+    "explanation": "",
+    "id": 7255046591774490635
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "注文",
+    "phonetic_alphabet": "chuumon4",
+    "translated_content": "点餐, 请求",
+    "explanation": "noun, transitive suru verb",
+    "id": 7255046591774490636
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "どれ",
+    "phonetic_alphabet": "Dore1",
+    "translated_content": "哪个",
+    "explanation": "pron",
+    "id": 7255046591774490637
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "一番",
+    "phonetic_alphabet": "ichiban2",
+    "translated_content": "最好",
+    "explanation": "adv",
+    "id": 7255046591774490638
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "みそ",
+    "phonetic_alphabet": "Miso1",
+    "translated_content": "味噌",
+    "explanation": "n",
+    "id": 7255046591774490639
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ラーメン",
+    "phonetic_alphabet": "raamen1",
+    "translated_content": "拉面",
+    "explanation": "n",
+    "id": 7255046591774490640
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "おすすめ",
+    "phonetic_alphabet": "osusume3",
+    "translated_content": "推荐",
+    "explanation": "n",
+    "id": 7255046591774490641
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "人気",
+    "phonetic_alphabet": "ninki3",
+    "translated_content": "人气",
+    "explanation": "n",
+    "id": 7255046591774490642
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "安い",
+    "phonetic_alphabet": "yasui2",
+    "translated_content": "便宜的",
+    "explanation": "adj",
+    "id": 7255046591774490643
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "お得",
+    "phonetic_alphabet": "otoku3",
+    "translated_content": "实惠的",
+    "explanation": "adj",
+    "id": 7255046591774490644
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "おもしろい",
+    "phonetic_alphabet": "omoshiroi4",
+    "translated_content": "有趣的",
+    "explanation": "adj",
+    "id": 7255046591774490645
+  }
+]
