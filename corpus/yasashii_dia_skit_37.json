@@ -1,0 +1,344 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あれ、テレビがつきませんね。",
+    "phonetic_alphabet": "Are, terebi ga tsukimasen ne.",
+    "translated_content": "欸? televsion 无法打开.",
+    "explanation": "发现异常情况.",
+    "id": 7255516826537328640
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ほんとだ。",
+    "phonetic_alphabet": "Honto3 da.",
+    "translated_content": "真的是.",
+    "explanation": "较为轻松的语气.",
+    "id": 7255516826537328641
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "おかしいね。",
+    "phonetic_alphabet": "Okashii3 ne.",
+    "translated_content": "真奇怪.",
+    "explanation": "较为轻松的语气.",
+    "id": 7255516826537328642
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "フロントに電話してみます。",
+    "phonetic_alphabet": "Furonto ni denwa3-shite mimasu.",
+    "translated_content": "前台(front)电话要尝试打.",
+    "explanation": "",
+    "id": 7255516826537328643
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "テレビがつかないんですが・・・",
+    "phonetic_alphabet": "Terebi ga tsukanain desu ga.",
+    "translated_content": "电视机无法打开的是. (ga 表示 doubt)",
+    "explanation": "说明异常情况.",
+    "id": 7255516826537328644
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "少々お待ちください。",
+    "phonetic_alphabet": "Shooshoo1 omachi2 kudasai.",
+    "translated_content": "稍微等待请.",
+    "explanation": "服务员用语.",
+    "id": 7255516826537328645
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "担当の者が伺います。",
+    "phonetic_alphabet": "Tantoo4 no mono2 ga ukagaimasu.",
+    "translated_content": "负责的人将拜访.",
+    "explanation": "服务员用语.",
+    "id": 7255516826537328646
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "Wi-Fiのパスワードがわからないんですが・・・",
+    "phonetic_alphabet": "Waifai no pasuwaado ga wakaranain desu ga …",
+    "translated_content": "wifi的password不知道的是.",
+    "explanation": "",
+    "id": 7255516826537328647
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "Wi-パスワードですね。こちらです。",
+    "phonetic_alphabet": "Pasuwaado desu ne. Kochira desu.",
+    "translated_content": "password是吧. 这个是.",
+    "explanation": "",
+    "id": 7255516826537328648
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "鍵が開かないんですが・・・",
+    "phonetic_alphabet": "Kagi2 ga akanain desu ga …",
+    "translated_content": "门锁不能打开的是.",
+    "explanation": "",
+    "id": 7255516826537328649
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "浴衣のサイズが合わないんですが・・・",
+    "phonetic_alphabet": "Yukata3 no saizu ga awanain desu ga …",
+    "translated_content": "浴衣size不合适的是.",
+    "explanation": "",
+    "id": 7255516826537328650
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "エアコンが効かないんですが・・・",
+    "phonetic_alphabet": "Eakon ga kikanain desu ga …",
+    "translated_content": "air conditioner 不工作起作用的是",
+    "explanation": "",
+    "id": 7255516826537328651
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "あれ",
+    "phonetic_alphabet": "Are",
+    "translated_content": "欸?",
+    "explanation": "对情况的突然惊讶或醒悟",
+    "id": 7255516826537328652
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "テレビ",
+    "phonetic_alphabet": "terebi",
+    "translated_content": "televsion",
+    "explanation": "n",
+    "id": 7255516826537328653
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "つく",
+    "phonetic_alphabet": "tsuku12",
+    "translated_content": "打开",
+    "explanation": "godasn intransitive verb, 假名形",
+    "id": 7255516826537328654
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "点く",
+    "phonetic_alphabet": "tsuku12",
+    "translated_content": "打开",
+    "explanation": "godasn intransitive verb, 字形",
+    "id": 7255516826537328655
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "つきません",
+    "phonetic_alphabet": "tsukimasen12",
+    "translated_content": "'つく'的masen形",
+    "explanation": "godasn intransitive verb, 假名形",
+    "id": 7255516826537328656
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "フロント",
+    "phonetic_alphabet": "Furonto",
+    "translated_content": "前台(front)",
+    "explanation": "n",
+    "id": 7255516826537328657
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "電話",
+    "phonetic_alphabet": "denwa3",
+    "translated_content": "电话",
+    "explanation": "n",
+    "id": 7255516826537328658
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "少々",
+    "phonetic_alphabet": "Shooshoo1",
+    "translated_content": "稍微",
+    "explanation": "adv",
+    "id": 7255516826537328659
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "担当",
+    "phonetic_alphabet": "Tantoo4",
+    "translated_content": "负责",
+    "explanation": "n",
+    "id": 7255516826537328660
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "者",
+    "phonetic_alphabet": "mono2",
+    "translated_content": "人",
+    "explanation": "n",
+    "id": 7255516826537328661
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "伺う",
+    "phonetic_alphabet": "ukagau4",
+    "translated_content": "拜访",
+    "explanation": "godan transitive verb",
+    "id": 7255516826537328662
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "伺います",
+    "phonetic_alphabet": "ukagaimasu4",
+    "translated_content": "'伺う'的masu形",
+    "explanation": "godan transitive verb",
+    "id": 7255516826537328663
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "パスワード",
+    "phonetic_alphabet": "pasuwaado",
+    "translated_content": "密码(password)",
+    "explanation": "n",
+    "id": 7255516826537328664
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "分かる",
+    "phonetic_alphabet": "wakaru2",
+    "translated_content": "知道",
+    "explanation": "godan intransitive verb, 字形",
+    "id": 7255516826537328665
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "わからない",
+    "phonetic_alphabet": "wakaranain2",
+    "translated_content": "'わかる'的nai形",
+    "explanation": "godan intransitive verb",
+    "id": 7255516826537328666
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "鍵",
+    "phonetic_alphabet": "Kagi2",
+    "translated_content": "门锁",
+    "explanation": "n",
+    "id": 7255516826537328667
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "開く",
+    "phonetic_alphabet": "aku2",
+    "translated_content": "打开",
+    "explanation": "godan intransitive verb",
+    "id": 7255516826537328668
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "開かない",
+    "phonetic_alphabet": "akanai2",
+    "translated_content": "'開く'的nai形",
+    "explanation": "godan intransitive verb",
+    "id": 7255516826537328669
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "浴衣",
+    "phonetic_alphabet": "Yukata3",
+    "translated_content": "浴衣",
+    "explanation": "n",
+    "id": 7255516826537328670
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "サイズ",
+    "phonetic_alphabet": "saizu",
+    "translated_content": "尺寸(size)",
+    "explanation": "n",
+    "id": 7255516826537328671
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "合う",
+    "phonetic_alphabet": "au1",
+    "translated_content": "合适",
+    "explanation": "godan intransitive verb",
+    "id": 7255516826537328672
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "合わない",
+    "phonetic_alphabet": "awanai1",
+    "translated_content": "'合う'的nai形",
+    "explanation": "godan intransitive verb",
+    "id": 7255516826537328673
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "エアコン",
+    "phonetic_alphabet": "Eakon",
+    "translated_content": "空调(air conditioner )",
+    "explanation": "n",
+    "id": 7255516826537328674
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "効く",
+    "phonetic_alphabet": "kiku2",
+    "translated_content": "工作",
+    "explanation": "godan transitive verb",
+    "id": 7255516826537328675
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "効く",
+    "phonetic_alphabet": "kiku2",
+    "translated_content": "工作",
+    "explanation": "godan transitive verb",
+    "id": 7255516826537328676
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "効かない",
+    "phonetic_alphabet": "kikanai2",
+    "translated_content": "'効く'的nai形",
+    "explanation": "godan transitive verb",
+    "id": 7255516826537328677
+  }
+]

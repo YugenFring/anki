@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "こちらのお部屋でございます。",
+    "phonetic_alphabet": "Kochira3 no oheya3 de gozaimasu.",
+    "translated_content": "这边的房间是.",
+    "explanation": "服务员用语.",
+    "id": 7255516823995580416
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お風呂は何時から何時までですか。",
+    "phonetic_alphabet": "Ofuro2 wa nan-ji1 kara2 nan-ji made desu ka.",
+    "translated_content": "浴场何时开始何时到是.",
+    "explanation": "",
+    "id": 7255516823995580417
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "朝6時から夜12時までです。",
+    "phonetic_alphabet": "Asa1 roku2-ji kara yoru1 juuni3-ji made desu.",
+    "translated_content": "早上6点开始夜晚12点到是.",
+    "explanation": "",
+    "id": 7255516823995580418
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "タム、日本の温泉、入ったことある？",
+    "phonetic_alphabet": "Tamu, Nihon no onsen, haitta koto aru1?",
+    "translated_content": "日本的温泉, 泡入过(名词化)有吗?",
+    "explanation": "较为轻松的语气.",
+    "id": 7255516823995580419
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "いいえ、初めてです。",
+    "phonetic_alphabet": "Iie, hajimete desu.",
+    "translated_content": "没有, 第一次是.",
+    "explanation": "",
+    "id": 7255516823995580420
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "楽しみです。",
+    "phonetic_alphabet": "Tanoshimi desu.",
+    "translated_content": "期待的是.",
+    "explanation": "",
+    "id": 7255516823995580421
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "明日の朝食は何時から何時までですか。",
+    "phonetic_alphabet": "Ashita3 no chooshoku4 wa nan-ji kara nan-ji made desu ka.",
+    "translated_content": "明天的早餐何时开始何时到是.",
+    "explanation": "",
+    "id": 7255516823995580422
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "6時から9時半までになります。",
+    "phonetic_alphabet": "Roku-ji kara ku-ji-han made ni narimasu.",
+    "translated_content": "6点半开始9点半到.",
+    "explanation": "",
+    "id": 7255516823995580423
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "花火大会は何時からですか。",
+    "phonetic_alphabet": "Hanabi1-taikai1 wa nan-ji kara desu ka.",
+    "translated_content": "花火大会何时开始是.",
+    "explanation": "",
+    "id": 7255516823995580424
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "この店は何時までですか。",
+    "phonetic_alphabet": "Kono mise wa nan-ji made desu ka.",
+    "translated_content": "这家店何时到结束.",
+    "explanation": "",
+    "id": 7255516823995580425
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ロープウエーは何時から何時までですか。",
+    "phonetic_alphabet": "Roopu-uee wa nan-ji kara nan-ji made desu ka.",
+    "translated_content": "rope way (缆车)何时开始何时到是.",
+    "explanation": "",
+    "id": 7255516823995580426
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "お部屋",
+    "phonetic_alphabet": "oheya3",
+    "translated_content": "房间",
+    "explanation": "n",
+    "id": 7255516823995580427
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "お風呂",
+    "phonetic_alphabet": "Ofuro2",
+    "translated_content": "浴场",
+    "explanation": "n",
+    "id": 7255516823995580428
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "朝",
+    "phonetic_alphabet": "Asa1",
+    "translated_content": "早上",
+    "explanation": "adv n",
+    "id": 7255516823995580429
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "夜",
+    "phonetic_alphabet": "yoru1",
+    "translated_content": "夜晚",
+    "explanation": "adv n",
+    "id": 7255516823995580430
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "明日",
+    "phonetic_alphabet": "Ashita3",
+    "translated_content": "明天",
+    "explanation": "n",
+    "id": 7255516823995580431
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "朝食",
+    "phonetic_alphabet": "chooshoku4",
+    "translated_content": "早餐",
+    "explanation": "n",
+    "id": 7255516823995580432
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "なる",
+    "phonetic_alphabet": "naru1",
+    "translated_content": "变成 (这里有表示确定为, 被安排为的意味)",
+    "explanation": "godan intransitive verb",
+    "id": 7255516823995580433
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "花火大会",
+    "phonetic_alphabet": "Hanabi1",
+    "translated_content": "花火大会",
+    "explanation": "n",
+    "id": 7255516823995580434
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ロープウエー",
+    "phonetic_alphabet": "Roopu-uee",
+    "translated_content": "rope way (缆车)",
+    "explanation": "n",
+    "id": 7255516823995580435
+  }
+]
