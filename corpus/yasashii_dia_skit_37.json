@@ -85,7 +85,7 @@
     "material_type": "sentence",
     "original_content": "鍵が開かないんですが・・・",
     "phonetic_alphabet": "Kagi2 ga akanain desu ga …",
-    "translated_content": "门锁不能打开的是.",
+    "translated_content": "钥匙不能打开的是.",
     "explanation": "",
     "id": 7255516826537328649
   },
@@ -247,7 +247,7 @@
     "material_type": "word",
     "original_content": "鍵",
     "phonetic_alphabet": "Kagi2",
-    "translated_content": "门锁",
+    "translated_content": "钥匙",
     "explanation": "n",
     "id": 7255516826537328667
   },
@@ -319,18 +319,9 @@
     "material_type": "word",
     "original_content": "効く",
     "phonetic_alphabet": "kiku2",
-    "translated_content": "工作",
+    "translated_content": "(电器)工作",
     "explanation": "godan transitive verb",
     "id": 7255516826537328675
-  },
-  {
-    "language_type": "JP",
-    "material_type": "word",
-    "original_content": "効く",
-    "phonetic_alphabet": "kiku2",
-    "translated_content": "工作",
-    "explanation": "godan transitive verb",
-    "id": 7255516826537328676
   },
   {
     "language_type": "JP",

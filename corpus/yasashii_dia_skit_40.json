@@ -1,0 +1,250 @@
+[
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "あ、揺れてる",
+        "phonetic_alphabet": "A, yureteru3.",
+        "translated_content": "啊, 摇晃在.",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "地震！助けて！",
+        "phonetic_alphabet": "Jishin3! Tasukete3!",
+        "translated_content": "地震！请帮助救命!",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "落ち着いてください。",
+        "phonetic_alphabet": "Ochitsuite4 kudasai.",
+        "translated_content": "冷静请!",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "大丈夫ですよ。",
+        "phonetic_alphabet": "Daijoobu desu yo.",
+        "translated_content": "没事的是.",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "ほら、もうおさまった。",
+        "phonetic_alphabet": "Hora, moo osamatta3.",
+        "translated_content": "看, 已经平息了.",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "初めてだったから、びっくりしました。",
+        "phonetic_alphabet": "Hajimete datta kara, bikkuri-shimashita.",
+        "translated_content": "第一次是因为, 吓到了.",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "その映画、　面白かったですか。",
+        "phonetic_alphabet": "Sono2 eega13, omoshirokatta4 desu ka.",
+        "translated_content": "那部电影, 有趣是.",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "話が難しかったから、よくわかりませんでした。",
+        "phonetic_alphabet": "Hanashi3 ga muzukashikatta45 kara, yoku1 wakarimasen-deshita",
+        "translated_content": "情节对话难的因为, 十分不明白是.",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "雨だったから、行きませんでした。",
+        "phonetic_alphabet": "Ame1 datta kara, ikimasen-deshita.",
+        "translated_content": "雨是因为, 没去是.",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "暑かったから、疲れました。",
+        "phonetic_alphabet": "Atsukatta2 kara, tsukaremashita.",
+        "translated_content": "炎热的是因为, 感到疲惫了.",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "sentence",
+        "original_content": "おいしかったから、おかわりしました。",
+        "phonetic_alphabet": "Oishikatta43 kara, okawari2-shimashita.",
+        "translated_content": "美味的是因为, 再来一份了.",
+        "explanation": ""
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "揺れる",
+        "phonetic_alphabet": "yureru3",
+        "translated_content": "摇晃",
+        "explanation": "ichidan intransitive verb"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "揺れて",
+        "phonetic_alphabet": "yurete3",
+        "translated_content": "'揺れる'的te形",
+        "explanation": "ichidan intransitive verb"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "地震",
+        "phonetic_alphabet": "Jishin3",
+        "translated_content": "地震",
+        "explanation": "n"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "助ける",
+        "phonetic_alphabet": "tasukeru3",
+        "translated_content": "帮助",
+        "explanation": "ichidan transittive verb"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "助けて",
+        "phonetic_alphabet": "Tasukete3",
+        "translated_content": "'助ける'的te形",
+        "explanation": "ichidan transittive verb"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "落ち着く",
+        "phonetic_alphabet": "ochitsuku4",
+        "translated_content": "冷静",
+        "explanation": "godan intransitve verb"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "落ち着いて",
+        "phonetic_alphabet": "Ochitsuite4",
+        "translated_content": "'落ち着く'的te形",
+        "explanation": "godan intransitve verb"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "ほら",
+        "phonetic_alphabet": "Hora",
+        "translated_content": "看",
+        "explanation": "interject"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "もう",
+        "phonetic_alphabet": "moo",
+        "translated_content": "已经",
+        "explanation": "adv"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "治まる",
+        "phonetic_alphabet": "osamaru3",
+        "translated_content": "平息, 平静",
+        "explanation": "godan intransitive verb, 字形"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "おさまる",
+        "phonetic_alphabet": "osamaru3",
+        "translated_content": "平息, 平静",
+        "explanation": "godan intransitive verb, 假名形"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "おさまった",
+        "phonetic_alphabet": "osamatta3",
+        "translated_content": "'おさまる'的te形",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "びっくり",
+        "phonetic_alphabet": "bikkuri",
+        "translated_content": "吃惊",
+        "explanation": "suru intransitive verb, 假名形"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "吃驚",
+        "phonetic_alphabet": "bikkuri",
+        "translated_content": "吃惊",
+        "explanation": "suru intransitive verb, 字形"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "映画",
+        "phonetic_alphabet": "eega13",
+        "translated_content": "电影",
+        "explanation": "n"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "話",
+        "phonetic_alphabet": "Hanashi3",
+        "translated_content": "情节",
+        "explanation": "n"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "難しい",
+        "phonetic_alphabet": "muzukashii45",
+        "translated_content": "难懂的",
+        "explanation": "i adj"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "雨",
+        "phonetic_alphabet": "Ame1",
+        "translated_content": "雨",
+        "explanation": "n"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "暑い",
+        "phonetic_alphabet": "atsui2",
+        "translated_content": "炎热的",
+        "explanation": "i adj"
+    },
+    {
+        "language_type": "JP",
+        "material_type": "word",
+        "original_content": "おかわり",
+        "phonetic_alphabet": "okawari2",
+        "translated_content": "再来一份",
+        "explanation": "suru n"
+    }
+]

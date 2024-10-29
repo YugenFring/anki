@@ -1,0 +1,299 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "財布を落としてしまいました。",
+    "phonetic_alphabet": "saifu3 wo otoshite2 shimaimashita.",
+    "translated_content": "钱包丢已发生.",
+    "explanation": "",
+    "id": 7256573054956896256
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あら大変。交番に行ってごらんなさい。",
+    "phonetic_alphabet": "Ara taihen4. Kooban4 ni itte goran3-nasai.",
+    "translated_content": "哎呀糟糕. 小型社区派出所警察岗亭向去看看请.",
+    "explanation": "",
+    "id": 7256573054956896257
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "それで、どんな財布ですか。",
+    "phonetic_alphabet": "Sorede, donna saifu3 desu ka.",
+    "translated_content": "所以那么, 哪种钱包是.",
+    "explanation": "",
+    "id": 7256573054956896258
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "黄色い財布です。",
+    "phonetic_alphabet": "Kiiroi4 saifu desu.",
+    "translated_content": "黄色的钱包是.",
+    "explanation": "",
+    "id": 7256573054956896259
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ああ、黄色・・・これですか。",
+    "phonetic_alphabet": "Aa, kiiro3… Kore desu ka.",
+    "translated_content": "哦, 黄色… 这个是. ",
+    "explanation": "",
+    "id": 7256573054956896260
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ああ、それです。",
+    "phonetic_alphabet": "Aa, kore desu.",
+    "translated_content": "啊, 这个是.",
+    "explanation": "",
+    "id": 7256573054956896261
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "部屋の番号を忘れてしまいました。",
+    "phonetic_alphabet": "Heya2 no bangoo3 o wasurete4 shimaishimashita.",
+    "translated_content": "房间的号码忘记已发生.",
+    "explanation": "",
+    "id": 7256573054956896262
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お名前は・・・",
+    "phonetic_alphabet": "O?-namae3 wa…",
+    "translated_content": "(您的)名字…",
+    "explanation": "服务人员用语.",
+    "id": 7256573054956896263
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "水をこぼしてしまいしました。",
+    "phonetic_alphabet": "Mizu2 o koboshite2 shimaimashita.",
+    "translated_content": "水弄洒已发生.",
+    "explanation": "",
+    "id": 7256573054956896264
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "切符をなくしてしまいました。",
+    "phonetic_alphabet": "Kippu2 o nakushite3 shimaimashita.",
+    "translated_content": "票弄丢已发生.",
+    "explanation": "",
+    "id": 7256573054956896265
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "トイレに携帯を忘れてしまいました。",
+    "phonetic_alphabet": "Toire ni keetai4 o wasurete shimaimashita.",
+    "translated_content": "厕所在手机忘记已发生.",
+    "explanation": "",
+    "id": 7256573054956896266
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "財布",
+    "phonetic_alphabet": "saifu3",
+    "translated_content": "钱包",
+    "explanation": "n",
+    "id": 7256573054956896267
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "落とす",
+    "phonetic_alphabet": "otosu2",
+    "translated_content": "丢失",
+    "explanation": "godan transitive verb",
+    "id": 7256573054956896268
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "落として",
+    "phonetic_alphabet": "otoshite2",
+    "translated_content": "'落とす'的te形",
+    "explanation": "godan transitive verb",
+    "id": 7256573054956896269
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "しまう",
+    "phonetic_alphabet": "shimau3",
+    "translated_content": "完成, 意外偶然无意地做. (带有后悔或遗憾, 无奈或歉意, 寻求理解或同情)",
+    "explanation": "auxiliary godan verb",
+    "id": 7256573054956896270
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "あら",
+    "phonetic_alphabet": "Ara",
+    "translated_content": "哎呀",
+    "explanation": "interject",
+    "id": 7256573054956896271
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "大変",
+    "phonetic_alphabet": "taihen4",
+    "translated_content": "糟糕",
+    "explanation": "interject",
+    "id": 7256573054956896272
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "交番",
+    "phonetic_alphabet": "Kooban4",
+    "translated_content": "小型社区派出所警察岗",
+    "explanation": "n",
+    "id": 7256573054956896273
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "それで",
+    "phonetic_alphabet": "Sorede",
+    "translated_content": "所以那么",
+    "explanation": "conjunct",
+    "id": 7256573054956896274
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "どんな",
+    "phonetic_alphabet": "donna",
+    "translated_content": "哪种",
+    "explanation": "pron",
+    "id": 7256573054956896275
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "黄色い",
+    "phonetic_alphabet": "Kiiroi4",
+    "translated_content": "黄色的",
+    "explanation": "adj",
+    "id": 7256573054956896276
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "黄色",
+    "phonetic_alphabet": "kiiro3",
+    "translated_content": "黄色",
+    "explanation": "n",
+    "id": 7256573054956896277
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "番号",
+    "phonetic_alphabet": "bangoo3",
+    "translated_content": "号码",
+    "explanation": "n",
+    "id": 7256573054956896278
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "忘れる",
+    "phonetic_alphabet": "wasureru4",
+    "translated_content": "忘记",
+    "explanation": "ichidan transitive verb",
+    "id": 7256573054956896279
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "忘れて",
+    "phonetic_alphabet": "wasurete4",
+    "translated_content": "'忘れる'的te形",
+    "explanation": "ichidan transitive verb",
+    "id": 7256573054956896280
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "名前",
+    "phonetic_alphabet": "namae3",
+    "translated_content": "名字",
+    "explanation": "n",
+    "id": 7256573054956896281
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "水",
+    "phonetic_alphabet": "Mizu2",
+    "translated_content": "水",
+    "explanation": "n",
+    "id": 7256573054956896282
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "こぼす",
+    "phonetic_alphabet": "kobosu2",
+    "translated_content": "弄洒",
+    "explanation": "godan transitive verb",
+    "id": 7256573054956896283
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "こぼして",
+    "phonetic_alphabet": "koboshite2",
+    "translated_content": "'こぼす'的te形",
+    "explanation": "godan transitive verb",
+    "id": 7256573054956896284
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "切符",
+    "phonetic_alphabet": "Kippu2",
+    "translated_content": "票",
+    "explanation": "n",
+    "id": 7256573054956896285
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "なくす",
+    "phonetic_alphabet": "nakusu3",
+    "translated_content": "弄丢",
+    "explanation": "godan transitive verb",
+    "id": 7256573054956896286
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "なくして",
+    "phonetic_alphabet": "nakushite3",
+    "translated_content": "'なくす'的te形",
+    "explanation": "godan transitive verb",
+    "id": 7256573054956896287
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "携帯",
+    "phonetic_alphabet": "keetai4",
+    "translated_content": "手机",
+    "explanation": "n",
+    "id": 7256573054956896288
+  }
+]

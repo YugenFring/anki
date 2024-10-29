@@ -1,0 +1,245 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "中に座る？",
+    "phonetic_alphabet": "naka ni suwaru3?",
+    "translated_content": "里面在坐吗?",
+    "explanation": "较为轻松的语气.",
+    "id": 7256549951321178112
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "それとも、外のデッキに行く？",
+    "phonetic_alphabet": "Soretomo, soto1 no dekki ni iku?",
+    "translated_content": "或者,  外面的甲板(deck) 去",
+    "explanation": "较为轻松的语气.",
+    "id": 7256573050162806784
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "外のほうがいいです。",
+    "phonetic_alphabet": "Soto no hoo1 ga ii desu.",
+    "translated_content": "外面的方式好是.",
+    "explanation": "",
+    "id": 7256573050162806785
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "わあ、富士山！きれい！",
+    "phonetic_alphabet": "Waa, Fuji-san! Kiree!",
+    "translated_content": "哇啊, 富士山, 漂亮!",
+    "explanation": "较为轻松的语气.",
+    "id": 7256573050162806786
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "本当。",
+    "phonetic_alphabet": "Hontoo",
+    "translated_content": "真的",
+    "explanation": "较为轻松的语气.",
+    "id": 7256573050162806787
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "気持ちいい！",
+    "phonetic_alphabet": "Kimochi3-ii?!",
+    "translated_content": "舒服的!",
+    "explanation": "较为轻松的语气.",
+    "id": 7256573050162806788
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "今日は、晴れてよかったね。",
+    "phonetic_alphabet": "Kyoo wa, harete2 yokatta ne.",
+    "translated_content": "今天, 放晴了好的是.",
+    "explanation": "较为轻松的语气.",
+    "id": 7256573050162806789
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "洋室と和室、どちらがよろしいですか。",
+    "phonetic_alphabet": "Yooshitsu4 to washitsu3, dochira1 ga yoroshii3 desu ka.",
+    "translated_content": "羊室和和室, 哪个更好的是.",
+    "explanation": "",
+    "id": 7256573050162806790
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "洋室より和室のほうが広いですね。和室にします。",
+    "phonetic_alphabet": "Yooshitsu yori washitsu no hoo1 ga hiroi2 desu ne. Washitsu ni shimasu.",
+    "translated_content": "洋室与..相比更和室方面宽敞宽阔是.",
+    "explanation": "",
+    "id": 7256573050162806791
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "肉より魚のほうが好きです。",
+    "phonetic_alphabet": "Niku2 yori sakana3 no hoo ga suki desu.",
+    "translated_content": "肉相比鱼方面喜欢是.",
+    "explanation": "",
+    "id": 7256573050162806792
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "この店のほうが安いですね。",
+    "phonetic_alphabet": "Kono mise no hoo ga yasui2 desu ne.",
+    "translated_content": "这家店方面便宜是.",
+    "explanation": "",
+    "id": 7256573050162806793
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "この電車のほうが早いですね。",
+    "phonetic_alphabet": "Kono densha no hoo ga hayai2 desu ne.",
+    "translated_content": "这俩电车方面快是.",
+    "explanation": "",
+    "id": 7256573050162806794
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "それとも",
+    "phonetic_alphabet": "Soretomo",
+    "translated_content": "或者.",
+    "explanation": "conjunct",
+    "id": 7256573050162806795
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "外",
+    "phonetic_alphabet": "soto1",
+    "translated_content": "外",
+    "explanation": "n",
+    "id": 7256573050162806796
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "デッキ",
+    "phonetic_alphabet": "dekki",
+    "translated_content": "甲板(deck)",
+    "explanation": "n",
+    "id": 7256573050162806797
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ほう",
+    "phonetic_alphabet": "hoo1",
+    "translated_content": "方式, 方面",
+    "explanation": "n",
+    "id": 7256573050162806798
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "気持ち",
+    "phonetic_alphabet": "Kimochi3",
+    "translated_content": "舒服的",
+    "explanation": "adj",
+    "id": 7256573050162806799
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "晴れる",
+    "phonetic_alphabet": "hareru2",
+    "translated_content": "放晴",
+    "explanation": "ichidan intransitive verb",
+    "id": 7256573050162806800
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "晴れて",
+    "phonetic_alphabet": "harete2",
+    "translated_content": "'晴れる'的te形",
+    "explanation": "ichidan intransitive verb",
+    "id": 7256573050162806801
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "洋室",
+    "phonetic_alphabet": "Yooshitsu4",
+    "translated_content": "洋室",
+    "explanation": "n",
+    "id": 7256573050162806802
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "和室",
+    "phonetic_alphabet": "washitsu3",
+    "translated_content": "和室",
+    "explanation": "n",
+    "id": 7256573050162806803
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "より",
+    "phonetic_alphabet": "yori",
+    "translated_content": "与...相比",
+    "explanation": "particle",
+    "id": 7256573050162806804
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "広い",
+    "phonetic_alphabet": "hiroi2",
+    "translated_content": "宽敞的",
+    "explanation": "adj",
+    "id": 7256573050162806805
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "肉",
+    "phonetic_alphabet": "Niku2",
+    "translated_content": "(红)肉",
+    "explanation": "n",
+    "id": 7256573050162806806
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "魚",
+    "phonetic_alphabet": "sakana3",
+    "translated_content": "鱼",
+    "explanation": "n",
+    "id": 7256573050162806807
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "安い",
+    "phonetic_alphabet": "yasui2",
+    "translated_content": "便宜的",
+    "explanation": "adj",
+    "id": 7256573050162806808
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "早い",
+    "phonetic_alphabet": "hayai2",
+    "translated_content": "快的",
+    "explanation": "adj",
+    "id": 7256573050162806809
+  }
+]
