@@ -1,0 +1,146 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "悠輝さんに会えてよかったですね。",
+    "phonetic_alphabet": "~ ni aete yokatta desu ne.",
+    "translated_content": "悠辉向见到太好了的是.",
+    "explanation": "",
+    "id": 7256921825142145024
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "はい、とてもうれしいです。",
+    "phonetic_alphabet": "Hai, totemo ureshii desu.",
+    "translated_content": "是的, 特别高兴是.",
+    "explanation": "",
+    "id": 7256921825142145025
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "悠輝さんは、活躍してるんだね。",
+    "phonetic_alphabet": "~, katsuyaku4-shiterun dane.",
+    "translated_content": "~, 活动(充满活力或成功的)正在. (发展得很不错)",
+    "explanation": "较为轻松的语气.",
+    "id": 7256921825142145026
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "10月にまたコンサートがあるそうです。",
+    "phonetic_alphabet": "Juugatsu4 ni mata konsaato ga aru soo desu.",
+    "translated_content": "10月份在又 concert 有听说似乎是.",
+    "explanation": "",
+    "id": 7256921825142145027
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "また会えますね",
+    "phonetic_alphabet": "Mata aemasu ne.",
+    "translated_content": "再遇见(将来能).",
+    "explanation": "",
+    "id": 7256921825142145028
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "明日からお祭りだそうですね。",
+    "phonetic_alphabet": "Ashita3 kara omatsuri4 da soo desu ne.",
+    "translated_content": "明天从开始节日活动是似乎听说是.",
+    "explanation": "",
+    "id": 7256921825142145029
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ええ。でも、すごく混むそうですよ。",
+    "phonetic_alphabet": "Ee. demo, sugoku komu1 soo desu yo.",
+    "translated_content": "是的. 不过, 非常拥挤人多似乎听说是.",
+    "explanation": "",
+    "id": 7256921825142145030
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "台風が来るそうですね。",
+    "phonetic_alphabet": "Taifuu3 ga kuru1 soo desu ne.",
+    "translated_content": "台风来似乎听说是.",
+    "explanation": "",
+    "id": 7256921825142145031
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "金曜日はただだそうですね。",
+    "phonetic_alphabet": "Kin-yoobi3 wa tada1 da soo desu ne.",
+    "translated_content": "星期五免费是似乎听说是.",
+    "explanation": "",
+    "id": 7256921825142145032
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "沖縄は暑いそうですね。",
+    "phonetic_alphabet": "Okinawa wa atsui2 soo desu ne.",
+    "translated_content": "冲绳炎热的似乎听说是.",
+    "explanation": "",
+    "id": 7256921825142145033
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "活躍",
+    "phonetic_alphabet": "katsuyaku4",
+    "translated_content": "活动(充满活力或成功的)",
+    "explanation": "suru n",
+    "id": 7256921825142145034
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "お祭り",
+    "phonetic_alphabet": "omatsuri4",
+    "translated_content": "节日活动",
+    "explanation": "n",
+    "id": 7256921825142145035
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "混む",
+    "phonetic_alphabet": "komu1",
+    "translated_content": "拥挤的",
+    "explanation": "adj",
+    "id": 7256921825142145036
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "台風",
+    "phonetic_alphabet": "Taifuu3",
+    "translated_content": "台风",
+    "explanation": "n",
+    "id": 7256921825142145037
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "金曜日",
+    "phonetic_alphabet": "Kin-yoobi3",
+    "translated_content": "星期五",
+    "explanation": "n",
+    "id": 7256921825142145038
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ただ",
+    "phonetic_alphabet": "tada1",
+    "translated_content": "免费",
+    "explanation": "n",
+    "id": 7256921825142145039
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お願いがあるんですが・・・",
+    "phonetic_alphabet": "onegai4 ga arun desu ga…",
+    "translated_content": "请求希望存在有是",
+    "explanation": "较为郑重的语气.",
+    "id": 7256921827818110976
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "メールの日本語をチェックしてもらえませんか。",
+    "phonetic_alphabet": "Meeru no nihongo o chekku-shite moraemasen3 ka.",
+    "translated_content": "mail 的日本语 check (帮我)能够得到吗.",
+    "explanation": "较为郑重的语气.",
+    "id": 7256921827818110977
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "いいですよ。どれどれ・・・",
+    "phonetic_alphabet": "~ Dore dore …",
+    "translated_content": "好的是. 看看 (催促某人做某事)",
+    "explanation": "",
+    "id": 7256921827818110978
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "私の日本語、大丈夫ですか。",
+    "phonetic_alphabet": "",
+    "translated_content": "我的日本语, 没问题是吗.",
+    "explanation": "",
+    "id": 7256921827818110979
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "とても上手ですよ",
+    "phonetic_alphabet": "Totemo joozu desu yo.",
+    "translated_content": "非常熟练的是哦.",
+    "explanation": "",
+    "id": 7256921827818110980
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "これ、もう少し安くしてもらえませんか。",
+    "phonetic_alphabet": "Kore, moo sukoshi2 yasuku2 shite moraemasen ka.",
+    "translated_content": "这个, 更一点地(降低价格做 | 便宜地做)能够得到吗.",
+    "explanation": "",
+    "id": 7256921827818110981
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "これ、もう少し安くしてもらえませんか。",
+    "phonetic_alphabet": "Kore, moo sukoshi2 yasuku2 shite moraemasen ka.",
+    "translated_content": "这个, 更一点地(降低价格做 | 便宜地做)能够得到吗.",
+    "explanation": "",
+    "id": 7256921827818110982
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "そうですねえ・・・",
+    "phonetic_alphabet": "",
+    "translated_content": "这个嘛…",
+    "explanation": "对sb请求的犹豫",
+    "id": 7256921827818110983
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "この店を予約してもらえませんか。",
+    "phonetic_alphabet": "Kono mise o yoyaku shite moraemasen ka.",
+    "translated_content": "这家店预约能够得到吗?",
+    "explanation": "",
+    "id": 7256921827818110984
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "荷物を預かってもらえませんか。",
+    "phonetic_alphabet": "Nimotsu1 o azukatte3 moraemasen ka.",
+    "translated_content": "行李保管照看能够得到吗?",
+    "explanation": "",
+    "id": 7256921827818110985
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "席を替えてもらえませんか。",
+    "phonetic_alphabet": "Seki1 o kaete3 moraemasen ka.",
+    "translated_content": "作为更换能够得到吗?",
+    "explanation": "",
+    "id": 7256921827818110986
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "が",
+    "phonetic_alphabet": "ga",
+    "translated_content": "接句尾, 表示期望或期望",
+    "explanation": "particle",
+    "id": 7256921827818110987
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "メール",
+    "phonetic_alphabet": "Meeru",
+    "translated_content": "邮件(mail)",
+    "explanation": "n",
+    "id": 7256921827818110988
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "チェック",
+    "phonetic_alphabet": "chekku",
+    "translated_content": "检查(check)",
+    "explanation": "suru n",
+    "id": 7256921827818110989
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "もらう",
+    "phonetic_alphabet": "morau3",
+    "translated_content": "得到",
+    "explanation": "godan transitive verb",
+    "id": 7256921827818110990
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "もらえません",
+    "phonetic_alphabet": "moraemasen3",
+    "translated_content": "'もらう'的potential polite negative 形",
+    "explanation": "godan transitive verb",
+    "id": 7256921827818110991
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "どれ",
+    "phonetic_alphabet": "Dore",
+    "translated_content": "催促某人做某事",
+    "explanation": "interject",
+    "id": 7256921827818110992
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "少し",
+    "phonetic_alphabet": "sukoshi2",
+    "translated_content": "更一点",
+    "explanation": "adv",
+    "id": 7256921827818110993
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "安く",
+    "phonetic_alphabet": "yasuku2",
+    "translated_content": "降低价格地, 便宜地",
+    "explanation": "adv",
+    "id": 7256921827818110994
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "荷物",
+    "phonetic_alphabet": "Nimotsu1",
+    "translated_content": "行李",
+    "explanation": "n",
+    "id": 7256921827818110995
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "預かる",
+    "phonetic_alphabet": "azukaru3",
+    "translated_content": "保管照看",
+    "explanation": "godan transitive verb",
+    "id": 7256921827818110996
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "預かって",
+    "phonetic_alphabet": "azukatte3",
+    "translated_content": "'預かる'的te形",
+    "explanation": "godan transitive verb",
+    "id": 7256921827818110997
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "席",
+    "phonetic_alphabet": "Seki1",
+    "translated_content": "座位",
+    "explanation": "n",
+    "id": 7256921827818110998
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "替える",
+    "phonetic_alphabet": "kaeru3",
+    "translated_content": "更换, 替换",
+    "explanation": "ichidan transitive verb",
+    "id": 7256921827818110999
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "替えて",
+    "phonetic_alphabet": "kaete3",
+    "translated_content": "'替える'的te形",
+    "explanation": "ichidan transitive verb",
+    "id": 7256921827818111000
+  }
+]

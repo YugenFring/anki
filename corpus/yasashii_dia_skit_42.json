@@ -1,0 +1,146 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "きれいなお花だね。",
+    "phonetic_alphabet": "kiree1 na o?-hana2 da ne.",
+    "translated_content": "漂亮的花是.",
+    "explanation": "较为轻松的语气.",
+    "id": 7256921817722421248
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "悠輝さんに渡すつもりです。",
+    "phonetic_alphabet": "Yuuki-san ni watasu tsumori3 desu.",
+    "translated_content": "悠辉向送递给意图计划是.",
+    "explanation": "",
+    "id": 7256921817722421249
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "すごくよかったです。",
+    "phonetic_alphabet": "",
+    "translated_content": "太棒了是.",
+    "explanation": "对sb意图的评价.",
+    "id": 7256921817722421250
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "さあ、楽屋に行こう。",
+    "phonetic_alphabet": "Saa, gakuya3 ni ikoo.",
+    "translated_content": "好吧那, 更衣室后台休息室向去吧.",
+    "explanation": "较为轻松的语气.",
+    "id": 7256921817722421251
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "これからどこに行きますか。",
+    "phonetic_alphabet": "Korekara4 doko ni ikimasu ka.",
+    "translated_content": "接下来哪里向去.",
+    "explanation": "",
+    "id": 7256921817722421252
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "姫路に行って、お城を見るつもりです。",
+    "phonetic_alphabet": "Himeji ni itte, o?-shiro2 o miru tsumori desu.",
+    "translated_content": "姫路向去, 城堡看意图计划是.",
+    "explanation": "",
+    "id": 7256921817722421253
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "友達と博物館に行くつもりです。",
+    "phonetic_alphabet": "Tomodachi to hakubutsukan ni iku tsumori desu.",
+    "translated_content": "朋友和博物馆向去意图计划是.",
+    "explanation": "",
+    "id": 7256921817722421254
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "部屋でゆっくりするつもりです。",
+    "phonetic_alphabet": "Heya de yukkuri-suru tsumori desu.",
+    "translated_content": "房间在慢慢从容地做意图计划是. (在房间里悠闲地呆着)",
+    "explanation": "",
+    "id": 7256921817722421255
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "また日本に来るつもりです。",
+    "phonetic_alphabet": "Mata2 nihon ni kuru1 tsumori desu.",
+    "translated_content": "又再日本向来意图计划是.",
+    "explanation": "",
+    "id": 7256921817722421256
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "お花",
+    "phonetic_alphabet": "o?-hana2",
+    "translated_content": "花",
+    "explanation": "n",
+    "id": 7256921817722421257
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "つもり",
+    "phonetic_alphabet": "tsumori3 ",
+    "translated_content": "接v后表计划或者意图.",
+    "explanation": "particle",
+    "id": 7256921817722421258
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "渡す",
+    "phonetic_alphabet": "watasu2 ",
+    "translated_content": "赠送, 送给",
+    "explanation": "godan transitive verb",
+    "id": 7256921817722421259
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "姫路",
+    "phonetic_alphabet": "Himeji ",
+    "translated_content": "姫路",
+    "explanation": "n",
+    "id": 7256921817722421260
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "お城",
+    "phonetic_alphabet": "o?-shiro2 ",
+    "translated_content": "城堡",
+    "explanation": "n",
+    "id": 7256921817722421261
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ゆっくり",
+    "phonetic_alphabet": "yukkuri",
+    "translated_content": "慢慢从容地",
+    "explanation": "adv",
+    "id": 7256921817722421262
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "また",
+    "phonetic_alphabet": "Mata2",
+    "translated_content": "又再",
+    "explanation": "adv",
+    "id": 7256921817722421263
+  }
+]

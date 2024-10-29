@@ -1,0 +1,200 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お久しぶりです。",
+    "phonetic_alphabet": "o?-hisashiburi5 desu.",
+    "translated_content": "好久以来的第一次. (好久不见)",
+    "explanation": "惯用语.",
+    "id": 7256921822457790464
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "去年、日本に来ました。",
+    "phonetic_alphabet": "Kyonen1, nihon ni kimashita.",
+    "translated_content": "去年, 日本向来了.",
+    "explanation": "",
+    "id": 7256921822457790465
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "そう。夢がかなったんですね。",
+    "phonetic_alphabet": "Soo. Yume2 ga kanattan desu ne.",
+    "translated_content": "这样啊. 梦想实现了是.",
+    "explanation": "较为轻松的语气.",
+    "id": 7256921822457790466
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "はい。悠輝さんも、元気そうですね。",
+    "phonetic_alphabet": "~ genki1 soo desu ne.",
+    "translated_content": "是的. 悠辉也(强调), 精神有起色看起来是.",
+    "explanation": "写信中.",
+    "id": 7256921822457790467
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "また会えてうれしいです。",
+    "phonetic_alphabet": "Mata2 aete1 ureshii3 desu.",
+    "translated_content": "再又能见面高兴开心的是.",
+    "explanation": "",
+    "id": 7256921822457790468
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あ、フリーマーケットをやってますね。",
+    "phonetic_alphabet": "A, furii-maaketto o yatte masu ne.",
+    "translated_content": "啊, flea(跳蚤) market(市场)举办进行在.",
+    "explanation": "",
+    "id": 7256921822457790469
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "わあ、おもしろそう！",
+    "phonetic_alphabet": "Waa, omoshiro-soo!",
+    "translated_content": "哇, 有意思看着.",
+    "explanation": "",
+    "id": 7256921822457790470
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ちょっと、高そうですね。",
+    "phonetic_alphabet": "Chotto, taka-soo desu ne.",
+    "translated_content": "有点, 贵看着.",
+    "explanation": "",
+    "id": 7256921822457790471
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "今日は、ダメそうですね。",
+    "phonetic_alphabet": "Kyoo wa, dame-soo desu ne.",
+    "translated_content": "今天, 不行看着.",
+    "explanation": "",
+    "id": 7256921822457790472
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ここ、よさそうですね。",
+    "phonetic_alphabet": "Koko, yosa1-soo desu ne.",
+    "translated_content": "这里, 不错看着.",
+    "explanation": "",
+    "id": 7256921822457790473
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "去年",
+    "phonetic_alphabet": "Kyonen1",
+    "translated_content": "去年",
+    "explanation": "adv",
+    "id": 7256921822457790474
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "夢",
+    "phonetic_alphabet": "Yume2",
+    "translated_content": "梦想",
+    "explanation": "n",
+    "id": 7256921822457790475
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "かなう",
+    "phonetic_alphabet": "kanau2",
+    "translated_content": "实现",
+    "explanation": "godan verb, 假名形",
+    "id": 7256921822457790476
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "かなった",
+    "phonetic_alphabet": "kanatta2",
+    "translated_content": "'かなう'的te形",
+    "explanation": "godan verb",
+    "id": 7256921822457790477
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "叶う",
+    "phonetic_alphabet": "kanau2",
+    "translated_content": "实现",
+    "explanation": "godan verb, 字形",
+    "id": 7256921822457790478
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "元気",
+    "phonetic_alphabet": "genki1",
+    "translated_content": "精神",
+    "explanation": "n",
+    "id": 7256921822457790479
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "会う",
+    "phonetic_alphabet": "au1",
+    "translated_content": "见面",
+    "explanation": "godan intransitive verb",
+    "id": 7256921822457790480
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "会えて",
+    "phonetic_alphabet": "aete1",
+    "translated_content": "'会う'的te形",
+    "explanation": "godan intransitive verb",
+    "id": 7256921822457790481
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "フリーマーケット",
+    "phonetic_alphabet": "furii-maaketto ",
+    "translated_content": "flea(跳蚤) market(市场)",
+    "explanation": "n",
+    "id": 7256921822457790482
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "高い",
+    "phonetic_alphabet": "takai2",
+    "translated_content": "价格高的, 昂贵的",
+    "explanation": "i adj",
+    "id": 7256921822457790483
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ダメ",
+    "phonetic_alphabet": "dame",
+    "translated_content": "不行的",
+    "explanation": "na adj",
+    "id": 7256921822457790484
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "よさ",
+    "phonetic_alphabet": "yosa1",
+    "translated_content": "不错的",
+    "explanation": "adj",
+    "id": 7256921822457790485
+  }
+]

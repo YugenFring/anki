@@ -1,0 +1,146 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "さあ、着いたよ。",
+    "phonetic_alphabet": "Saa, tsuita yo.",
+    "translated_content": "哎, 到了.",
+    "explanation": "较为轻松的语气.",
+    "id": 7256940714810966016
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ごめんください。",
+    "phonetic_alphabet": "Gomen kudasai.",
+    "translated_content": "进来可以吗.",
+    "explanation": "通常在门口说.",
+    "id": 7256940714810966017
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "おいでやす。",
+    "phonetic_alphabet": "Oideyasu3.",
+    "translated_content": "欢迎光临.",
+    "explanation": "服务员用语.",
+    "id": 7256940714810966018
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お部屋はこちらです。",
+    "phonetic_alphabet": "Oheya wa kochira desu.",
+    "translated_content": "房间这边是.",
+    "explanation": "",
+    "id": 7256940714810966019
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "わあ、すてきなお部屋。",
+    "phonetic_alphabet": "Waa, suteki3 na oheya.",
+    "translated_content": "哇, 温馨真棒的房间.",
+    "explanation": "",
+    "id": 7256940714810966020
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "お庭もあります。",
+    "phonetic_alphabet": "O?-niwa2 mo arimasu.",
+    "translated_content": "庭院院子也有.",
+    "explanation": "",
+    "id": 7256940714810966021
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "小さいけどきれいですね。",
+    "phonetic_alphabet": "Chiisai3 kedo kiree desu ne.",
+    "translated_content": "小的然而但是漂亮的是.",
+    "explanation": "",
+    "id": 7256940714810966022
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "このホテルはどうですか。",
+    "phonetic_alphabet": "Kono hoteru wa doo desu ka.",
+    "translated_content": "这个hotel怎么样是.",
+    "explanation": "",
+    "id": 7256940714810966023
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "うーん、きれいだけど高いですね。",
+    "phonetic_alphabet": "Uun, kiree1 da kedo takai2 desu ne.",
+    "translated_content": "嗯… 漂亮的是然而但是昂贵的是.",
+    "explanation": "",
+    "id": 7256940714810966024
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "疲れたけど楽しかったです。",
+    "phonetic_alphabet": "Tsukareta3 kedo tanoshikatta3 desu.",
+    "translated_content": "疲劳了但是快乐的是.",
+    "explanation": "",
+    "id": 7256940714810966025
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "難しいけどおもしろいです。",
+    "phonetic_alphabet": "Muzukashii45 kedo omoshiroi desu.",
+    "translated_content": "难的但是然而有意思的是.",
+    "explanation": "",
+    "id": 7256940714810966026
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "大きいけど安かったです。",
+    "phonetic_alphabet": "Ookii3 kedo yasukatta2 desu.",
+    "translated_content": "大的但是然而便宜的是.",
+    "explanation": "",
+    "id": 7256940714810966027
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "着く",
+    "phonetic_alphabet": "tsuku12",
+    "translated_content": "到达.",
+    "explanation": "godan intransitivev verb",
+    "id": 7256940714810966028
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "着いた",
+    "phonetic_alphabet": "tsuita12",
+    "translated_content": "'着く'的ta形",
+    "explanation": "godan intransitivev verb",
+    "id": 7256940714810966029
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "すてき",
+    "phonetic_alphabet": "suteki3",
+    "translated_content": "温馨的",
+    "explanation": "adj",
+    "id": 7256940714810966030
+  },
+  {
+    "language_type": "JP",
+    "material_type": "庭",
+    "original_content": "お庭",
+    "phonetic_alphabet": "O?-niwa2",
+    "translated_content": "庭院",
+    "explanation": "n",
+    "id": 7256940714810966031
+  }
+]
