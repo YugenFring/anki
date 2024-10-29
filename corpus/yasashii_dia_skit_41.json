@@ -1,170 +1,191 @@
 [
-    {
-        "language_type": "JP",
-        "material_type": "sentence",
-        "original_content": "悠輝さんがピアノコンクールで優勝したよ。",
-        "phonetic_alphabet": "Yuuki-san ga piano-konkuuru de yuushoo4-shita yo.",
-        "translated_content": "悠辉 piano-contest 在获胜了是.",
-        "explanation": "较为轻松的语气."
-    },
-    {
-        "language_type": "JP",
-        "material_type": "sentence",
-        "original_content": "あ、ほんとだ。すごい。",
-        "phonetic_alphabet": "",
-        "translated_content": "啊, 真的. 太棒了.",
-        "explanation": "较为轻松的语气."
-    },
-    {
-        "language_type": "JP",
-        "material_type": "sentence",
-        "original_content": "来月2日にコンサートがあるよ。",
-        "phonetic_alphabet": "Raigetsu1 futsuka3 ni konsaato ga aru yo.",
-        "translated_content": "下个月2号在 concert 有哦.",
-        "explanation": "较为轻松的语气."
-    },
-    {
-        "language_type": "JP",
-        "material_type": "sentence",
-        "original_content": "行きたいです。",
-        "phonetic_alphabet": "",
-        "translated_content": "想去是",
-        "explanation": ""
-    },
-    {
-        "language_type": "JP",
-        "material_type": "sentence",
-        "original_content": "チケットを買うことができますか。",
-        "phonetic_alphabet": "Chiketto o kau2 koto ga dekimasu ka.",
-        "translated_content": "ticket 买(名次化)能吗.",
-        "explanation": ""
-    },
-    {
-        "language_type": "JP",
-        "material_type": "sentence",
-        "original_content": "予約してみるね。",
-        "phonetic_alphabet": "Yoyaku3-shite miru ne.",
-        "translated_content": "预定做想要尝试.",
-        "explanation": "较为轻松的语气."
-    },
-    {
-        "language_type": "JP",
-        "material_type": "sentence",
-        "original_content": "歌舞伎は、どこで見ることができますか。",
-        "phonetic_alphabet": "Kabuki3 wa, doko de miru koto ga dekimasu ka.",
-        "translated_content": "歌舞伎, 哪里在看(名词化)可以.",
-        "explanation": ""
-    },
-    {
-        "language_type": "JP",
-        "material_type": "sentence",
-        "original_content": "本日ですか。お調べします。",
-        "phonetic_alphabet": "Honjitsu1 desu ka. O?-shirabe3-shimasu.",
-        "translated_content": "今天是吗. 调查检查做.",
-        "explanation": ""
-    },
-    {
-        "language_type": "JP",
-        "material_type": "sentence",
-        "original_content": "席を予約することができますか。",
-        "phonetic_alphabet": "Seki1 o yoyaku3-suru koto ga dekimasu ka.",
-        "translated_content": "座位预定做可以吗.",
-        "explanation": ""
-    },
-    {
-        "language_type": "JP",
-        "material_type": "sentence",
-        "original_content": "洗濯をすることができますか。",
-        "phonetic_alphabet": "Sentaku3 o suru koto ga dekimasu ka.",
-        "translated_content": "洗衣服做可以吗.",
-        "explanation": ""
-    },
-    {
-        "language_type": "JP",
-        "material_type": "sentence",
-        "original_content": "ドライヤーを借りることができますか。",
-        "phonetic_alphabet": "Doraiyaa o kariru3 koto ga dekimasu ka.",
-        "translated_content": "吹风机(dryer)借可以吗.",
-        "explanation": ""
-    },
-    {
-        "language_type": "JP",
-        "material_type": "word",
-        "original_content": "コンクール",
-        "phonetic_alphabet": "konkuuru",
-        "translated_content": "contest",
-        "explanation": "n"
-    },
-    {
-        "language_type": "JP",
-        "material_type": "word",
-        "original_content": "来月",
-        "phonetic_alphabet": "Raigetsu1",
-        "translated_content": "下个月",
-        "explanation": "adv"
-    },
-    {
-        "language_type": "JP",
-        "material_type": "word",
-        "original_content": "コンサート",
-        "phonetic_alphabet": "konsaato",
-        "translated_content": "音乐会, 演唱会(concert)",
-        "explanation": "n"
-    },
-    {
-        "language_type": "JP",
-        "material_type": "word",
-        "original_content": "チケット",
-        "phonetic_alphabet": "Chiketto",
-        "translated_content": "ticket",
-        "explanation": "n"
-    },
-    {
-        "language_type": "JP",
-        "material_type": "word",
-        "original_content": "予約",
-        "phonetic_alphabet": "Yoyaku3",
-        "translated_content": "预定",
-        "explanation": "suru n"
-    },
-    {
-        "language_type": "JP",
-        "material_type": "word",
-        "original_content": "本日",
-        "phonetic_alphabet": "Honjitsu1",
-        "translated_content": "今天",
-        "explanation": "suru n"
-    },
-    {
-        "language_type": "JP",
-        "material_type": "word",
-        "original_content": "調べ",
-        "phonetic_alphabet": "shirabe3",
-        "translated_content": "调查检查",
-        "explanation": "suru n"
-    },
-    {
-        "language_type": "JP",
-        "material_type": "word",
-        "original_content": "席",
-        "phonetic_alphabet": "Seki1",
-        "translated_content": "座位",
-        "explanation": "n"
-    },
-    {
-        "language_type": "JP",
-        "material_type": "word",
-        "original_content": "洗濯",
-        "phonetic_alphabet": "Sentaku3",
-        "translated_content": "洗衣服",
-        "explanation": "n"
-    },
-    {
-        "language_type": "JP",
-        "material_type": "word",
-        "original_content": "借りる",
-        "phonetic_alphabet": "kariru3",
-        "translated_content": "借用",
-        "explanation": "ichidan tansitive verb"
-    }
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "悠輝さんがピアノコンクールで優勝したよ。",
+    "phonetic_alphabet": "Yuuki-san ga piano-konkuuru de yuushoo4-shita yo.",
+    "translated_content": "悠辉 piano-contest 在获胜了是.",
+    "explanation": "较为轻松的语气.",
+    "id": 7256870988739018752
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あ、ほんとだ。すごい。",
+    "phonetic_alphabet": "",
+    "translated_content": "啊, 真的. 太棒了.",
+    "explanation": "较为轻松的语气.",
+    "id": 7256870988739018753
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "来月2日にコンサートがあるよ。",
+    "phonetic_alphabet": "Raigetsu1 futsuka3 ni konsaato ga aru yo.",
+    "translated_content": "下个月2号在 concert 有哦.",
+    "explanation": "较为轻松的语气.",
+    "id": 7256870988739018754
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "行きたいです。",
+    "phonetic_alphabet": "",
+    "translated_content": "想去是",
+    "explanation": "",
+    "id": 7256870988739018755
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "チケットを買うことができますか。",
+    "phonetic_alphabet": "Chiketto o kau2 koto ga dekimasu ka.",
+    "translated_content": "ticket 买(名次化)能吗.",
+    "explanation": "",
+    "id": 7256870988739018756
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "予約してみるね。",
+    "phonetic_alphabet": "Yoyaku3-shite miru ne.",
+    "translated_content": "预定做想要尝试.",
+    "explanation": "较为轻松的语气.",
+    "id": 7256870988739018757
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "歌舞伎は、どこで見ることができますか。",
+    "phonetic_alphabet": "Kabuki3 wa, doko de miru koto ga dekimasu ka.",
+    "translated_content": "歌舞伎, 哪里在看(名词化)可以.",
+    "explanation": "",
+    "id": 7256870988739018758
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "本日ですか。お調べします。",
+    "phonetic_alphabet": "Honjitsu1 desu ka. O?-shirabe3-shimasu.",
+    "translated_content": "今天是吗. 调查检查做.",
+    "explanation": "",
+    "id": 7256870988739018759
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "席を予約することができますか。",
+    "phonetic_alphabet": "Seki1 o yoyaku3-suru koto ga dekimasu ka.",
+    "translated_content": "座位预定做可以吗.",
+    "explanation": "",
+    "id": 7256870988739018760
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "洗濯をすることができますか。",
+    "phonetic_alphabet": "Sentaku3 o suru koto ga dekimasu ka.",
+    "translated_content": "洗衣服做可以吗.",
+    "explanation": "",
+    "id": 7256870988739018761
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "ドライヤーを借りることができますか。",
+    "phonetic_alphabet": "Doraiyaa o kariru3 koto ga dekimasu ka.",
+    "translated_content": "吹风机(dryer)借可以吗.",
+    "explanation": "",
+    "id": 7256870988739018762
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "コンクール",
+    "phonetic_alphabet": "konkuuru",
+    "translated_content": "contest",
+    "explanation": "n",
+    "id": 7256870988739018763
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "来月",
+    "phonetic_alphabet": "Raigetsu1",
+    "translated_content": "下个月",
+    "explanation": "adv",
+    "id": 7256870988739018764
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "コンサート",
+    "phonetic_alphabet": "konsaato",
+    "translated_content": "音乐会, 演唱会(concert)",
+    "explanation": "n",
+    "id": 7256870988739018765
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "チケット",
+    "phonetic_alphabet": "Chiketto",
+    "translated_content": "ticket",
+    "explanation": "n",
+    "id": 7256870988739018766
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "予約",
+    "phonetic_alphabet": "Yoyaku3",
+    "translated_content": "预定",
+    "explanation": "suru n",
+    "id": 7256870988739018767
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "本日",
+    "phonetic_alphabet": "Honjitsu1",
+    "translated_content": "今天",
+    "explanation": "suru n",
+    "id": 7256870988739018768
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "調べ",
+    "phonetic_alphabet": "shirabe3",
+    "translated_content": "调查检查",
+    "explanation": "suru n",
+    "id": 7256870988739018769
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "席",
+    "phonetic_alphabet": "Seki1",
+    "translated_content": "座位",
+    "explanation": "n",
+    "id": 7256870988739018770
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "洗濯",
+    "phonetic_alphabet": "Sentaku3",
+    "translated_content": "洗衣服",
+    "explanation": "n",
+    "id": 7256870988739018771
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "借りる",
+    "phonetic_alphabet": "kariru3",
+    "translated_content": "借用",
+    "explanation": "ichidan tansitive verb",
+    "id": 7256870988739018772
+  }
 ]
