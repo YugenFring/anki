@@ -1,0 +1,218 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "おみくじだよ。",
+    "phonetic_alphabet": "Omikuji4 da yo.",
+    "translated_content": "神签是.",
+    "explanation": "较为轻松的语气.",
+    "id": 7257328438625730560
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どうやってするんですか。",
+    "phonetic_alphabet": "Doo yatte3 surun desu ka.",
+    "translated_content": "怎么做弄是.",
+    "explanation": "",
+    "id": 7257328438625730561
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "箱を振ってみて。",
+    "phonetic_alphabet": "Hako2 o futte2 mite.",
+    "translated_content": "箱子摇晃尝试请.",
+    "explanation": "较为轻松的语气.",
+    "id": 7257328438625730562
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "3番です。",
+    "phonetic_alphabet": "San12-ban1 desu.",
+    "translated_content": "3号是.",
+    "explanation": "",
+    "id": 7257328438625730563
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "あ、大吉だ。",
+    "phonetic_alphabet": "A, daikichi4 da.",
+    "translated_content": "啊, 大吉是.",
+    "explanation": "较为轻松的语气.",
+    "id": 7257328438625730564
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どういう意味ですか。",
+    "phonetic_alphabet": "Doo-iu2 imi1 desu ka.",
+    "translated_content": "什么类型(的)意味含义是.",
+    "explanation": "",
+    "id": 7257328438625730565
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "とてもいい運勢ですよ。",
+    "phonetic_alphabet": "Totemo ii unsee1 desu yo.",
+    "translated_content": "非常好的运气是.",
+    "explanation": "",
+    "id": 7257328438625730566
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "これ、どうやって食べるんですか。",
+    "phonetic_alphabet": "Kore, doo yatte taberun desu ka.",
+    "translated_content": "这个, 怎么吃是.",
+    "explanation": "",
+    "id": 7257328438625730567
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "そちらのたれにつけて、お召し上がりください。",
+    "phonetic_alphabet": "Sochira3 no tare2 ni tsukete, o?-meshiagari5 kudasai.",
+    "translated_content": "那边的酱料蘸料向蘸浸请, 享用请.",
+    "explanation": "",
+    "id": 7257328438625730568
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "これ、どうやって使うんですか。",
+    "phonetic_alphabet": "Kore, doo yatte tsukaun desu ka.",
+    "translated_content": "这个, 怎么使用是.",
+    "explanation": "",
+    "id": 7257328438625730569
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どうやって着るんですか。",
+    "phonetic_alphabet": "Doo yatte kirun2 desu ka.",
+    "translated_content": "怎么穿着是.",
+    "explanation": "",
+    "id": 7257328438625730570
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "どうやってチャージするんですか。",
+    "phonetic_alphabet": "Doo yate chaaji-surun desu ka.",
+    "translated_content": "怎么充值(charge)做是.",
+    "explanation": "",
+    "id": 7257328438625730571
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "おみくじ",
+    "phonetic_alphabet": "Omikuji4 ",
+    "translated_content": "神签",
+    "explanation": "n",
+    "id": 7257328438625730572
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "箱",
+    "phonetic_alphabet": "Hako2",
+    "translated_content": "箱子",
+    "explanation": "n",
+    "id": 7257328438625730573
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "大吉",
+    "phonetic_alphabet": "daikichi4",
+    "translated_content": "大吉",
+    "explanation": "n",
+    "id": 7257328438625730574
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "どういう",
+    "phonetic_alphabet": "Doo-iu2",
+    "translated_content": "什么类型(的)",
+    "explanation": "pron",
+    "id": 7257328438625730575
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "意味",
+    "phonetic_alphabet": "imi1",
+    "translated_content": "意味",
+    "explanation": "n",
+    "id": 7257328438625730576
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "運勢",
+    "phonetic_alphabet": "unsee1",
+    "translated_content": "运气",
+    "explanation": "n",
+    "id": 7257328438625730577
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "たれ",
+    "phonetic_alphabet": "tare2",
+    "translated_content": "酱料蘸料",
+    "explanation": "n",
+    "id": 7257328438625730578
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "つける",
+    "phonetic_alphabet": "tsukeru3",
+    "translated_content": "蘸浸",
+    "explanation": "ichidan transitive verbn",
+    "id": 7257328438625730579
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "つけて",
+    "phonetic_alphabet": "tsukete3",
+    "translated_content": "'つける'的te形",
+    "explanation": "ichidan transitive verb",
+    "id": 7257328438625730580
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "召し上がる",
+    "phonetic_alphabet": "meshiagaru5",
+    "translated_content": "享用",
+    "explanation": "godan transitive verb",
+    "id": 7257328438625730581
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "使う",
+    "phonetic_alphabet": "tsukau3",
+    "translated_content": "使用",
+    "explanation": "godan transitive verb",
+    "id": 7257328438625730582
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "チャージ",
+    "phonetic_alphabet": "chaaji",
+    "translated_content": "充值(charge)",
+    "explanation": "suru n",
+    "id": 7257328438625730583
+  }
+]

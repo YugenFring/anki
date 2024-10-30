@@ -1,0 +1,245 @@
+[
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "タムさんが来て、もうすぐ1年ですね。",
+    "phonetic_alphabet": "Tamu-san ga kite1, moo sugu1 ichi-nen2 desu ne.",
+    "translated_content": "心心来了, 已经马上快1年是.",
+    "explanation": "",
+    "id": 7257328441641435136
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "将来は何がしたいですか。",
+    "phonetic_alphabet": "Shoorai14 wa nani ga shitai desu ka.",
+    "translated_content": "将来什么想做的是.",
+    "explanation": "",
+    "id": 7257328441641435137
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "卒業したら、日本で働きたいです。",
+    "phonetic_alphabet": "Sotsugyoo4-shitara?, Nihon de hatarakitai desu.",
+    "translated_content": "毕业做完了的条件下后, 日本在工作想的是.",
+    "explanation": "",
+    "id": 7257328441641435138
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "旅行会社で働きたいです。",
+    "phonetic_alphabet": "Ryokoo3-gaisha3 de hatarakitai4 desu.",
+    "translated_content": "旅行社在工作想的是.",
+    "explanation": "",
+    "id": 7257328441641435139
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "日本の魅力をいっぱい伝えてください。",
+    "phonetic_alphabet": "Nihon no miryoku3 o ippai4 tsutaete kudasai ne.",
+    "translated_content": "日本的魅力尽可能地宣传传播请.",
+    "explanation": "",
+    "id": 7257328441641435140
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "応援してるよ。",
+    "phonetic_alphabet": "Ooen4-shiteru? yo.",
+    "translated_content": "支持你哦.",
+    "explanation": "",
+    "id": 7257328441641435141
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "がんばります。",
+    "phonetic_alphabet": "Ganbarimasu",
+    "translated_content": "坚持努力(尽力做某事).",
+    "explanation": "",
+    "id": 7257328441641435142
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "これから長崎ですか。",
+    "phonetic_alphabet": "Korekara4 Nagasaki2 desu ka.",
+    "translated_content": "现在起未来长崎是. (你要去长崎吗)",
+    "explanation": "",
+    "id": 7257328441641435143
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "はい。長崎に行ったら、ちゃんぽんが食べたいです。",
+    "phonetic_alphabet": "Nagasaki2 ni ittara, chanpon ga tabetai desu.",
+    "translated_content": "是的. 长崎到了的话, 杂烩面想吃的是.",
+    "explanation": "",
+    "id": 7257328441641435144
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "夏休みになったら、また日本に来たいです。",
+    "phonetic_alphabet": "Natsu2-yasumi3 ni nattara1, mata2 Nihon ni kitai1 desu.",
+    "translated_content": "暑假向变成成为之后, 再次日本向来想的是.",
+    "explanation": "",
+    "id": 7257328441641435145
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "国に帰ったら、もっと日本語を勉強したいです。",
+    "phonetic_alphabet": "Kuni2 ni kaettara1, motto nihongo o benkyoo-shitai desu.",
+    "translated_content": "国向回了后, 进一步更日本语学习想的是.",
+    "explanation": "",
+    "id": 7257328441641435146
+  },
+  {
+    "language_type": "JP",
+    "material_type": "sentence",
+    "original_content": "日本語が上手になったら、日本語でマンガを読みたいです。",
+    "phonetic_alphabet": "Nihongo ga joozu3-ni? nattara1, Nihongo de manga o yomitai1 desu.",
+    "translated_content": "日本语熟练的向变成成为之后, 日本语通过漫画阅读想的是.",
+    "explanation": "",
+    "id": 7257328441641435147
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "将来",
+    "phonetic_alphabet": "Shoorai14",
+    "translated_content": "将来",
+    "explanation": "n",
+    "id": 7257328441641435148
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "卒業",
+    "phonetic_alphabet": "Sotsugyoo4",
+    "translated_content": "毕业",
+    "explanation": "suru n",
+    "id": 7257328441641435149
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "働く",
+    "phonetic_alphabet": "hataraku4",
+    "translated_content": "毕业",
+    "explanation": "godan intransitive verb",
+    "id": 7257328441641435150
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "旅行",
+    "phonetic_alphabet": "Ryokoo3",
+    "translated_content": "旅行",
+    "explanation": "n",
+    "id": 7257328441641435151
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "会社",
+    "phonetic_alphabet": "gaisha3",
+    "translated_content": "社",
+    "explanation": "n",
+    "id": 7257328441641435152
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "魅力",
+    "phonetic_alphabet": "miryoku3",
+    "translated_content": "魅力",
+    "explanation": "n",
+    "id": 7257328441641435153
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "伝える",
+    "phonetic_alphabet": "tsutaeru4",
+    "translated_content": "宣传",
+    "explanation": "ichidan transitive verb",
+    "id": 7257328441641435154
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "応援",
+    "phonetic_alphabet": "Ooen4",
+    "translated_content": "支持",
+    "explanation": "suru n",
+    "id": 7257328441641435155
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "これから",
+    "phonetic_alphabet": "Korekara4",
+    "translated_content": "现在起",
+    "explanation": "adv",
+    "id": 7257328441641435156
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "長崎",
+    "phonetic_alphabet": "Nagasaki2",
+    "translated_content": "长崎",
+    "explanation": "n",
+    "id": 7257328441641435157
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "ちゃんぽん",
+    "phonetic_alphabet": "chanpon",
+    "translated_content": "杂烩面",
+    "explanation": "n",
+    "id": 7257328441641435158
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "夏",
+    "phonetic_alphabet": "Natsu2",
+    "translated_content": "夏天",
+    "explanation": "n",
+    "id": 7257328441641435159
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "休み",
+    "phonetic_alphabet": "yasumi3",
+    "translated_content": "休假",
+    "explanation": "n",
+    "id": 7257328441641435160
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "国",
+    "phonetic_alphabet": "Kuni2",
+    "translated_content": "国家",
+    "explanation": "n",
+    "id": 7257328441641435161
+  },
+  {
+    "language_type": "JP",
+    "material_type": "word",
+    "original_content": "もっと",
+    "phonetic_alphabet": "motto",
+    "translated_content": "进一步更",
+    "explanation": "adv",
+    "id": 7257328441641435162
+  }
+]
