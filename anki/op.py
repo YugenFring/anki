@@ -25,6 +25,8 @@ def load(db_info: dict, directory: str) -> None:
     cards_db = Cards(db_info)
     for filename in os.listdir(directory):
         file_path = os.path.join(directory, filename)
+        if not file_path.endswith('.json'):
+            continue
         json_list = json_loader(file_path)
         card_list = [CorpusBase(**c) for c in json_list]
 
